@@ -97,13 +97,16 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 
 -->
 # 👥 Students
-- Aoxiang Ning
-- Jinhong He
-- Shuaibin Fan
-- Peiqi Xie
-- Yanyi He 
-- Zhengyang He (graduated in 2024)
-
+| Begin | Name | End |
+|:--------|:-------:|--------:|
+| 2023   | Aoxiang Ning | 2026 |
+| 2023   | Jinhong He | 2026 |
+| 2023   | Shuaibin Fan | 2026 |
+|=============================|
+| 2022   | Peiqi Xie | 2025 |
+| 2022   | Yanyi He | 2025 |
+|=============================|
+| 2021   | Zhengyang He  | 2024 |
 
 # ⭐️ Join Us?
 Discussions or cooperations are warmly welcome. If you want to join my group, please feel free to contact me via Email at xueml@cqut.edu.cn.
