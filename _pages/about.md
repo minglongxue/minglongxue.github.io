@@ -29,7 +29,7 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 - Deep Learning
 
 # 🔥 News
-- *2024.08*: &nbsp;🎉🎉 One paper is accepted by ICPR 2024(CCF-C, CAAI-B).
+- *2024.08*: &nbsp;🎉🎉 One paper is accepted by ICPR 2024(CCF-C, CAAI-C).
 <!-- - *2024.08*: &nbsp;🎉🎉 One paper is accepted by ACML 2024(CCF-C).-->
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by the IEEE Signal Processing Letters (SCI,中科院二区).
 - *2024.03*: &nbsp;🥂🥂 Team-building activities.
@@ -101,8 +101,8 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 - Jinhong He
 - Shuaibin Fan
 - Peiqi Xie
-- Yanyi He
-- Zhengyang He
+- Yanyi He 
+- Zhengyang He (graduated in 2024)
 
 
 # ⭐️ Join Us?
