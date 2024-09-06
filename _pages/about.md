@@ -56,6 +56,13 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 
 - *2023.06*: &nbsp;🎉🎉 One paper is accepted by ICIP2023(CCF-C).
 
+<span class='anchor' id='manuscripts'></span>
+# 🗞️ Manuscripts 
+**2024**
+- Fan S, Xue M, Ning A, et al. Addressing Domain Discrepancy: A Dual-branch Collaborative Model to Unsupervised Dehazing[J]. arXiv preprint arXiv:2407.10226, 2024. [[Paper]](https://arxiv.org/pdf/2407.10226)
+- Ning A, Wei Y, Xue M, et al. Artistic-style text detector and a new Movie-Poster dataset[J]. arXiv preprint arXiv:2406.16307, 2024. [[Paper]](https://arxiv.org/pdf/2406.16307) [[Code]](https://github.com/AXNing/Artistic-style-text-detection)
+- Xue M, He J, He Y, et al. Low-light image enhancement via clip-fourier guided wavelet diffusion[J]. arXiv preprint arXiv:2401.03788, 2024. [[Paper]](https://arxiv.org/pdf/2401.03788) [[Code]](https://github.com/hejh8/CFWD)
+
 # 📝 Publications 
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -72,7 +79,7 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 -->
 **2024**
 - [ACML'24] He J, Xue M, Liu Z, et al. Zero-LED: Zero-Reference Lighting Estimation Diffusion Model for Low-Light Image Enhancement[J]. arXiv preprint arXiv:2403.02879, 2024. (CCF-C) [[Paper]](https://arxiv.org/pdf/2403.02879) (To Accept)
-- [IEEE Signal Processing Letters] M. Xue, Y. He, J. He and S. Zhong, "DLDiff: Image Detail-guided Latent Diffusion Model for Low-Light Image Enhancement," in IEEE Signal Processing Letters, doi: 10.1109/LSP.2024.3453120. (SCI, 中科院二区) [[Paper]](https://ieeexplore.ieee.org/document/10663248) [[Code]](https://github.com/Yuii666/DLDiff) (Accepted)
+- [IEEE Signal Processing Letters] Xue M, He Y, He J, et al. DLDiff: Image Detail-guided Latent Diffusion Model for Low-Light Image Enhancement[J]. IEEE Signal Processing Letters, 2024. (SCI, 中科院二区) [[Paper]](https://ieeexplore.ieee.org/document/10663248) [[Code]](https://github.com/Yuii666/DLDiff) (Accepted)
 
 **2023**
 - [Journal of Cloud Computing'23] Minglong Xue, Yanyi He, Peiqi Xie, Zhengyang He and Xin Feng. “LAE-GAN: a novel cloud-based Low-light Attention Enhancement Generative Adversarial Network for unpaired text images” Journal of Cloud Computing, 12(160), online, 2023 (SCI, 中科院三区) [[Paper]](https://link.springer.com/content/pdf/10.1186/s13677-023-00533-4.pdf) (Accepted)
@@ -88,9 +95,6 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 - [ICDAR'19] Yao Xiao, Minglong Xue, Tong Lu, Yirui Wu, Palaiahnakote Shivakumara, “A text-context-aware CNN network for multi-oriented and multi-language scene text detection” in Proc. 2019 International Conference on Document Analysis and Recognition (ICDAR), pp. 695-700, 2019. (EI, CCF-C)
 - [PCM'19] Chao Zhang, Palaiahnakote Shivakumara, Minglong Xue, Liping Zhu, Tong Lu, Umapada Pal, “New fusion based enhancement for text detection in night video footage” in Proc. 2018 Pacific Rim Conference on Multimedia (PCM). pp. 46-56, 2018. (EI, CCF-C)
 
-<span class='anchor' id='manuscripts'></span>
-# 🗞️ Manuscripts 
-**2024**
 
 # 🎖 Honors and Awards
 - *2023* Shiji Scholar of Chongqing University of Technology (重庆理工大学士继英才·青年拔尖)
