@@ -88,6 +88,8 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 - [ICDAR'19] Yao Xiao, Minglong Xue, Tong Lu, Yirui Wu, Palaiahnakote Shivakumara, “A text-context-aware CNN network for multi-oriented and multi-language scene text detection” in Proc. 2019 International Conference on Document Analysis and Recognition (ICDAR), pp. 695-700, 2019. (EI, CCF-C)
 - [PCM'19] Chao Zhang, Palaiahnakote Shivakumara, Minglong Xue, Liping Zhu, Tong Lu, Umapada Pal, “New fusion based enhancement for text detection in night video footage” in Proc. 2018 Pacific Rim Conference on Multimedia (PCM). pp. 46-56, 2018. (EI, CCF-C)
 
+# 🗞️ Manuscripts 
+**2024**
 
 # 🎖 Honors and Awards
 - *2023* Shiji Scholar of Chongqing University of Technology (重庆理工大学士继英才·青年拔尖)
