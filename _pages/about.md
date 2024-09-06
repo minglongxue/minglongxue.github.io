@@ -88,6 +88,7 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 - [ICDAR'19] Yao Xiao, Minglong Xue, Tong Lu, Yirui Wu, Palaiahnakote Shivakumara, “A text-context-aware CNN network for multi-oriented and multi-language scene text detection” in Proc. 2019 International Conference on Document Analysis and Recognition (ICDAR), pp. 695-700, 2019. (EI, CCF-C)
 - [PCM'19] Chao Zhang, Palaiahnakote Shivakumara, Minglong Xue, Liping Zhu, Tong Lu, Umapada Pal, “New fusion based enhancement for text detection in night video footage” in Proc. 2018 Pacific Rim Conference on Multimedia (PCM). pp. 46-56, 2018. (EI, CCF-C)
 
+<span class='anchor' id='manuscripts'></span>
 # 🗞️ Manuscripts 
 **2024**
 
@@ -117,7 +118,7 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 |=============================|
 | 2021   | Zhengyang He  | 2024 |
 
-
+<span class='anchor' id='join'></span>
 # ⭐️ Join Us?
 Discussions or cooperations are warmly welcome. If you want to join my group, please feel free to contact me via Email at xueml@cqut.edu.cn.
 
