@@ -29,8 +29,9 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 - Deep Learning
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 One paper is accepted by ACML 2024(CCF-C).
+- *2024.09*: &nbsp;🎉🎉 One paper is accepted by ACAIT 2024.
 - *2024.08*: &nbsp;🎉🎉 One paper is accepted by ICPR 2024(CCF-C, CAAI-C).
-<!-- - *2024.08*: &nbsp;🎉🎉 One paper is accepted by ACML 2024(CCF-C).-->
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by the IEEE Signal Processing Letters (SCI,中科院二区).
 - *2024.03*: &nbsp;🥂🥂 Team-building activities.
 <p align = "center">    
@@ -71,9 +72,10 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 </div>
 -->
 **2024**
+- [IEEE Signal Processing Letters] M. Xue, Y. He, J. He and S. Zhong, "DLDiff: Image Detail-guided Latent Diffusion Model for Low-Light Image Enhancement," in IEEE Signal Processing Letters, doi: 10.1109/LSP.2024.3453120. (SCI, 中科院二区) [[Code]](https://github.com/Yuii666/DLDiff)
 
 **2023**
-- [Journal of Cloud Computing'23] Minglong Xue, Yanyi He, Peiqi Xie, Zhengyang He and Xin Feng. “LAE-GAN: a novel cloud-based Low-light Attention Enhancement Generative Adversarial Network for unpaired text images” Journal of Cloud Computing, 12(160), online, 2023 (SCI, 中科院三区) [[Paper]](https://link.springer.com/content/pdf/10.1186/s13677-023-00533-4.pdf)
+- [Journal of Cloud Computing'23] Minglong Xue, Yanyi He, Peiqi Xie, Zhengyang He and Xin Feng. “LAE-GAN: a novel cloud-based Low-light Attention Enhancement Generative Adversarial Network for unpaired text images” Journal of Cloud Computing, 12(160), online, 2023 (SCI, 中科院三区) [[Paper]](https://link.springer.com/content/pdf/10.1186/s13677-023-00533-4.pdf) 
 - [ICIP'23] Minglong Xue, Zhengyang He, Yanyi He, Peiqi Xie and Xin Feng. “UT-GAN: A Novel Unpaired Textual-Attention Generative Adversarial Network for Low-Light Text Image Enhancement” in Proc. International Conference on Image Processing (ICIP). 2023: 1980-1984. (EI, CCF-C) [[Paper]](https://ieeexplore.ieee.org/document/10222221)
 
 **2022**
@@ -100,6 +102,10 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 
 | Begin | Name | End |
 |:--------|:-------:|--------:|
+| 2024   | Jianfeng Fu | 2027 |
+| 2024   | Wenchao Yan | 2027 |
+| 2024   | Kaiwen Chen | 2027 |
+|=============================|
 | 2023   | Aoxiang Ning | 2026 |
 | 2023   | Jinhong He | 2026 |
 | 2023   | Shuaibin Fan | 2026 |
