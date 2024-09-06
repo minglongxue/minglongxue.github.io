@@ -30,7 +30,6 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 One paper is accepted by ACML 2024(CCF-C).
-- *2024.09*: &nbsp;🎉🎉 One paper is accepted by ACAIT 2024.
 - *2024.08*: &nbsp;🎉🎉 One paper is accepted by ICPR 2024(CCF-C, CAAI-C).
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by the IEEE Signal Processing Letters (SCI,中科院二区).
 - *2024.03*: &nbsp;🥂🥂 Team-building activities.
