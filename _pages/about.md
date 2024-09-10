@@ -29,6 +29,11 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 - Deep Learning
 
 # 🔥 News
+- *2024.09* &nbsp;👥👥 Warmly welcome three new graduate students to join us.
+<p align = "center">    
+<img  src="/images/2024.jpg" width="50%" />
+</p>
+  
 - *2024.09*: &nbsp;🎉🎉 One paper is accepted by ACML 2024(CCF-C).
 - *2024.08*: &nbsp;🎉🎉 One paper is accepted by ICPR 2024(CCF-C).
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by the IEEE Signal Processing Letters (SCI,中科院二区).
