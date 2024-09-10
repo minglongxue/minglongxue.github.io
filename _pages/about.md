@@ -44,7 +44,7 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 
 - *2024.02*: &nbsp;🧑‍💻🧑‍💻 Peiqi Xie conducted a study tour at the Royal Institute of Technology in Thailand.
 <p align = "center">    
-<img  src="/images/Xiepeiqi_visiting.jpg" width="50%" />
+<img  src="/images/Xiepeiqi_visiting.jpg" width="35%" />
 </p>
 
 - *2023 12*: &nbsp;🎉🎉 We are five students honoured to “华为杯”全国研究生数学建模竞赛全国三等奖.
