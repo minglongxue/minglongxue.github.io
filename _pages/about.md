@@ -64,10 +64,12 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 <span class='anchor' id='manuscripts'></span>
 # 🗞️ Manuscripts 
 **2024**
-- Fan S, Xue M*, Ning A, et al. Addressing Domain Discrepancy: A Dual-branch Collaborative Model to Unsupervised Dehazing[J]. arXiv preprint arXiv:2407.10226, 2024. [[Paper]](https://arxiv.org/pdf/2407.10226)
-- Ning A, Wei Y, Xue M*, et al. Artistic-style text detector and a new Movie-Poster dataset[J]. arXiv preprint arXiv:2406.16307, 2024. [[Paper]](https://arxiv.org/pdf/2406.16307) [[Code]](https://github.com/AXNing/Artistic-style-text-detection)
-- Xue M, He J, He Y, et al. Low-light image enhancement via clip-fourier guided wavelet diffusion[J]. arXiv preprint arXiv:2401.03788, 2024. [[Paper]](https://arxiv.org/pdf/2401.03788) [[Code]](https://github.com/hejh8/CFWD)
+- He J, Xue M*, Wang W, et al. Optimizing 4D Lookup Table for Low-light Video Enhancement via Wavelet Priori[J].arXiv preprint arXiv:2409.08585,2024. [[Paper]](https://arxiv.org/abs/2409.08585)
 - Ning A, Xue M*, He J, et al. KAN See In the Dark[J]. arXiv preprint arXiv:2409.03404, 2024. [[Paper]](https://arxiv.org/pdf/2409.03404) [[Code]](https://github.com/AXNing/KSID)
+- Ning A, Wei Y, Xue M*, et al. Artistic-style text detector and a new Movie-Poster dataset[J]. arXiv preprint arXiv:2406.16307, 2024. [[Paper]](https://arxiv.org/pdf/2406.16307) [[Code]](https://github.com/AXNing/Artistic-style-text-detection)
+- Fan S, Xue M*, Ning A, et al. Addressing Domain Discrepancy: A Dual-branch Collaborative Model to Unsupervised Dehazing[J]. arXiv preprint arXiv:2407.10226, 2024. [[Paper]](https://arxiv.org/pdf/2407.10226)
+- Xue M, He J, He Y, et al. Low-light image enhancement via clip-fourier guided wavelet diffusion[J]. arXiv preprint arXiv:2401.03788, 2024. [[Paper]](https://arxiv.org/pdf/2401.03788) [[Code]](https://github.com/hejh8/CFWD)
+
 
 # 📝 Publications 
 <!--
