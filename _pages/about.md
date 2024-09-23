@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am currently a Lecturer in the College of Computer Science and Engineering at Chongqing University of Technology, working as a member of the Big Data and Machine Learning Lab. I have been honoured as Shiji Scholar of Chongqing University of Technology. Before coming to Chongqing University of Technology, I obtained my Ph.D. degree from Nanjing University in 2021. I received my B.S. and M.S. Degrees from Chongqing Jiaotong University and Yunnan Minzu University in 2013 and 2017 respectively.
+I am currently a Lecturer in the College of Computer Science and Engineering at Chongqing University of Technolog. I have been honoured as Shiji Scholar of Chongqing University of Technology. Before coming to Chongqing University of Technology, I obtained my Ph.D. degree from Nanjing University in 2021. I received my B.S. and M.S. Degrees from Chongqing Jiaotong University and Yunnan Minzu University in 2013 and 2017 respectively.
 
 # 💻 Research Interests
 - Computer Vision
@@ -86,9 +86,9 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 </div>
 -->
 **2024**
-- [ACML'24] He J, Xue M*, Liu Z, et al. Zero-LED: Zero-Reference Lighting Estimation Diffusion Model for Low-Light Image Enhancement[J]. arXiv preprint arXiv:2403.02879, 2024. (CCF-C) [[Paper]](https://arxiv.org/pdf/2403.02879) (To Accept)
-- [IEEE Signal Processing Letters] Xue M, He Y, He J, et al. DLDiff: Image Detail-guided Latent Diffusion Model for Low-Light Image Enhancement[J]. IEEE Signal Processing Letters, 2024. (SCI, 中科院二区) [[Paper]](https://ieeexplore.ieee.org/document/10663248) [[Code]](https://github.com/Yuii666/DLDiff) (Accepted)
-
+- [ACML'24] He J, Xue M* et al. Zero-LED: Zero-Reference Lighting Estimation Diffusion Model for Low-Light Image Enhancement. Asian Conference on Machine Learning, Hanoi, Vietnam,2024  (CCF-C) [[Paper]](https://arxiv.org/pdf/2403.02879) (Accepted)
+- [ICPR'24] Xie P, He J, Song C and Xue M*. A Novel Encoder-Decoder Network with Multi-domain Information Fusion for Video Deblurring. 27th International Conference on Pattern Recognition, Kolkata, India, 2024. (CCF-C) (Accepted )
+- [IEEE Signal Processing Letters] Xue M, He Y, He J, et al. DLDiff: Image Detail-guided Latent Diffusion Model for Low-Light Image Enhancement. IEEE Signal Processing Letters, 2024. (SCI, 中科院二区) [[Paper]](https://ieeexplore.ieee.org/document/10663248) [[Code]](https://github.com/Yuii666/DLDiff) 
 **2023**
 - [Journal of Cloud Computing'23] Minglong Xue, Yanyi He, Peiqi Xie, Zhengyang He and Xin Feng. “LAE-GAN: a novel cloud-based Low-light Attention Enhancement Generative Adversarial Network for unpaired text images” Journal of Cloud Computing, 12(160), online, 2023 (SCI, 中科院三区) [[Paper]](https://link.springer.com/content/pdf/10.1186/s13677-023-00533-4.pdf) (Accepted)
 - [ICIP'23] Minglong Xue, Zhengyang He, Yanyi He, Peiqi Xie and Xin Feng. “UT-GAN: A Novel Unpaired Textual-Attention Generative Adversarial Network for Low-Light Text Image Enhancement” in Proc. International Conference on Image Processing (ICIP). 2023: 1980-1984. (EI, CCF-C) [[Paper]](https://ieeexplore.ieee.org/document/10222221) (Accepted)
