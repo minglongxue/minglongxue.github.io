@@ -29,6 +29,7 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 - Deep Learning
 
 # 🔥 News
+- *2024.10*: &nbsp;🎉🎉 One paper is accepted by ESWA 2024(SCI,中科院一区).
 - *2024.09* &nbsp;👥👥 Warmly welcome three new graduate students to join us.
 <p align = "center">    
 <img  src="/images/2024.jpg" width="50%" />
@@ -66,7 +67,6 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 **2024**
 - He J, Xue M*, Wang W, et al. Optimizing 4D Lookup Table for Low-light Video Enhancement via Wavelet Priori[J].arXiv preprint arXiv:2409.08585,2024. [[Paper]](https://arxiv.org/abs/2409.08585)
 - Ning A, Xue M*, He J, et al. KAN See In the Dark[J]. arXiv preprint arXiv:2409.03404, 2024. [[Paper]](https://arxiv.org/pdf/2409.03404) [[Code]](https://github.com/AXNing/KSID)
-- Ning A, Wei Y, Xue M*, et al. Artistic-style text detector and a new Movie-Poster dataset[J]. arXiv preprint arXiv:2406.16307, 2024. [[Paper]](https://arxiv.org/pdf/2406.16307) [[Code]](https://github.com/AXNing/Artistic-style-text-detection)
 - Fan S, Xue M*, Ning A, et al. Addressing Domain Discrepancy: A Dual-branch Collaborative Model to Unsupervised Dehazing[J]. arXiv preprint arXiv:2407.10226, 2024. [[Paper]](https://arxiv.org/pdf/2407.10226)
 - Xue M, He J, He Y, et al. Low-light image enhancement via clip-fourier guided wavelet diffusion[J]. arXiv preprint arXiv:2401.03788, 2024. [[Paper]](https://arxiv.org/pdf/2401.03788) [[Code]](https://github.com/hejh8/CFWD)
 
@@ -86,9 +86,10 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 </div>
 -->
 **2024**
-- [ACML'24] He J, Xue M* et al. Zero-LED: Zero-Reference Lighting Estimation Diffusion Model for Low-Light Image Enhancement. Asian Conference on Machine Learning, Hanoi, Vietnam,2024  (CCF-C) [[Paper]](https://arxiv.org/pdf/2403.02879) (Accepted)
+- [ESWA] Ning A, Xue M* et al. Artistic-style text detector and a new Movie-Poster dataset. Expert Systems With Applications, 2024 (Accepted) (SCI, 中科院一区). [[Paper]](https://arxiv.org/pdf/2406.16307) [[Code]](https://github.com/AXNing/Artistic-style-text-detection)
+- [ACML'24] He J, Xue M* et al. Zero-LED: Zero-Reference Lighting Estimation Diffusion Model for Low-Light Image Enhancement. Asian Conference on Machine Learning, Hanoi, Vietnam, 2024  (CCF-C) [[Paper]](https://arxiv.org/pdf/2403.02879) (Accepted)
 - [ICPR'24] Xie P, He J, Song C and Xue M*. A Novel Encoder-Decoder Network with Multi-domain Information Fusion for Video Deblurring. 27th International Conference on Pattern Recognition, Kolkata, India, 2024. (CCF-C) (Accepted )
-- [IEEE Signal Processing Letters] Xue M, He Y, He J, et al. DLDiff: Image Detail-guided Latent Diffusion Model for Low-Light Image Enhancement. IEEE Signal Processing Letters, 2024. (SCI, 中科院二区) [[Paper]](https://ieeexplore.ieee.org/document/10663248) [[Code]](https://github.com/Yuii666/DLDiff)
+- [IEEE SPL] Xue M, He Y, He J, et al. DLDiff: Image Detail-guided Latent Diffusion Model for Low-Light Image Enhancement. IEEE Signal Processing Letters, 2024. (SCI, 中科院二区) [[Paper]](https://ieeexplore.ieee.org/document/10663248) [[Code]](https://github.com/Yuii666/DLDiff)
   
 **2023**
 - [Journal of Cloud Computing] Minglong Xue, Yanyi He, Peiqi Xie, Zhengyang He and Xin Feng. “LAE-GAN: a novel cloud-based Low-light Attention Enhancement Generative Adversarial Network for unpaired text images” Journal of Cloud Computing, 12(160), online, 2023 (SCI, 中科院三区) [[Paper]](https://link.springer.com/content/pdf/10.1186/s13677-023-00533-4.pdf) (Accepted)
