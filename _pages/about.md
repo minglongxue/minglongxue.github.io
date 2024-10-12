@@ -29,8 +29,8 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 - Deep Learning
 
 # 🔥 News
-- *2024.10*: &nbsp;🎉🎉 One paper is accepted by ESWA 2024(SCI,中科院一区).
-- *2024.09* &nbsp;👥👥 Warmly welcome three new graduate students to join us.
+- *2024.10*: &nbsp;🎉🎉 One paper is accepted by ESWA (SCI,中科院一区).
+- *2024.09*: &nbsp;👥👥 Warmly welcome three new graduate students to join us.
 <p align = "center">    
 <img  src="/images/2024.jpg" width="50%" />
 </p>
