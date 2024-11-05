@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am currently a Lecturer in the College of Computer Science and Engineering at Chongqing University of Technolog. I have been honoured as Shiji Scholar of Chongqing University of Technology. Before coming to Chongqing University of Technology, I obtained my Ph.D. degree from Nanjing University in 2021. I received my B.S. and M.S. Degrees from Chongqing Jiaotong University and Yunnan Minzu University in 2013 and 2017 respectively.
+I am currently a Lecturer in the College of Computer Science and Engineering at Chongqing University of Technology. I have been honoured as Shiji Scholar of Chongqing University of Technology. Before coming to Chongqing University of Technology, I obtained my Ph.D. degree from Nanjing University in 2021. I received my B.S. and M.S. Degrees from Chongqing Jiaotong University and Yunnan Minzu University in 2013 and 2017 respectively.
 
 # 💻 Research Interests
 - Computer Vision
@@ -87,7 +87,7 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 </div>
 -->
 **2024**
-- [ESWA] Ning A, Xue M* et al. Artistic-style text detector and a new Movie-Poster dataset. Expert Systems With Applications, 2024 (Accepted) (SCI, 中科院一区). [[Paper]](https://arxiv.org/pdf/2406.16307) [[Code]](https://github.com/AXNing/Artistic-style-text-detection)
+- [ESWA] Ning A, Xue M* et al. Artistic-style text detector and a new Movie-Poster dataset. Expert Systems With Applications, 2024 (Accepted) (SCI, 中科院一区). [[Paper]](https://www.sciencedirect.com/science/article/pii/S0957417424024114) [[Code]](https://github.com/AXNing/Artistic-style-text-detection)
 - [ACML'24] He J, Xue M* et al. Zero-LED: Zero-Reference Lighting Estimation Diffusion Model for Low-Light Image Enhancement. Asian Conference on Machine Learning, Hanoi, Vietnam, 2024  (CCF-C) [[Paper]](https://arxiv.org/pdf/2403.02879) (Accepted)
 - [ICPR'24] Xie P, He J, Song C and Xue M*. A Novel Encoder-Decoder Network with Multi-domain Information Fusion for Video Deblurring. 27th International Conference on Pattern Recognition, Kolkata, India, 2024. (CCF-C) (Accepted )
 - [IEEE SPL] Xue M, He Y, He J, et al. DLDiff: Image Detail-guided Latent Diffusion Model for Low-Light Image Enhancement. IEEE Signal Processing Letters, 2024. (SCI, 中科院二区) [[Paper]](https://ieeexplore.ieee.org/document/10663248) [[Code]](https://github.com/Yuii666/DLDiff)
