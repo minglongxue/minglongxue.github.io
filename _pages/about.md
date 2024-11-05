@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am currently a Lecturer in the College of Computer Science and Engineering at Chongqing University of Technology. I have been honoured as Shiji Scholar of Chongqing University of Technology. Before coming to Chongqing University of Technology, I obtained my Ph.D. degree from Nanjing University in 2021. I received my B.S. and M.S. Degrees from Chongqing Jiaotong University and Yunnan Minzu University in 2013 and 2017 respectively.
+I am currently a Lecturer in the College of Computer Science and Engineering at Chongqing University of Technology. I have been honoured as Shiji Scholar of Chongqing University of Technology. Before coming to Chongqing University of Technology, I obtained my Ph.D. degree from Nanjing University in 2021. I received my B.S. and M.S. degrees from Chongqing Jiaotong University and Yunnan Minzu University in 2013 and 2017 respectively.
 
 # 💻 Research Interests
 - Computer Vision
