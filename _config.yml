@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Minglong Xue" 
-description              : "Lecturer in the College of Computer Science and Engineering at Chongqing University of Technology, with research interests in Computer vision. "
+description              : "Lecturer in the College of Computer Science and Engineering at Chongqing University of Technology, with research interests in Computer Vision. "
 repository               : "minglongxue/minglongxue1.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "薛明龙 / MingLong Xue"
+  name             : "薛明龙 / Minglong Xue"
   avatar           : "images/xml1.png"
   bio              : "Chongqing University of Technology"
   location         : "Chongqing, China"
