@@ -30,7 +30,7 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 
 # 🔥 News
 - *2024 11*: &nbsp;🎉🎉  Five of our students won the second prize and two won the third prize in the Huawei Cup National Graduate Student Mathematical Modeling Competition. (华为杯研究生数学建模大赛)
-- *2024.11*: &nbsp;🧑‍💻🧑‍💻 Minglong Xue and Jinhong He attended ACAIT in Fuzhou, China.
+- *2024.11*: &nbsp;🧑‍💻🧑‍💻 Minglong Xue and Jinhong He attended ACAIT2024 in Fuzhou, China.
 <p align = "center">    
 <img  src="/images/acait.jpg" width="50%" />
 </p>
