@@ -29,6 +29,11 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 - Deep Learning
 
 # 🔥 News
+- *2024 11*: &nbsp;🎉🎉 We are five students honoured to “华为杯”全国研究生数学建模竞赛全国二等奖 and two students honoured to “华为杯”全国研究生数学建模竞赛全国三等奖.
+- *2024.10*: &nbsp;🧑‍💻🧑‍💻 Minglong Xue and Jinhong He attended ACAIT in Fuzhou, China.
+<p align = "center">    
+<img  src="/images/acait.jpg" width="50%" />
+</p>
 - *2024.10*: &nbsp;🎉🎉 One paper is accepted by ESWA (SCI,中科院一区).
 - *2024.10*: &nbsp;🎉🎉 Two students were selected as candidates for the National Graduate Scholarship.
 - *2024.09*: &nbsp;👥👥 Warmly welcome three new graduate students to join us.
