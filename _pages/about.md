@@ -29,7 +29,7 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 - Deep Learning
 
 # 🔥 News
-- *2024 11*: &nbsp;🎉🎉 We are five students honoured to the second prize of the "Huawei Cup" National Graduate Mathematical Modeling Competition and two students honoured to the third prize of the "Huawei Cup" National Graduate Mathematical Modeling Competition. (华为杯研究生数学建模大赛)
+- *2024 11*: &nbsp;🎉🎉  Five of our students won the second prize and two won the third prize in the Huawei Cup National Graduate Student Mathematical Modeling Competition. (华为杯研究生数学建模大赛)
 - *2024.10*: &nbsp;🧑‍💻🧑‍💻 Minglong Xue and Jinhong He attended ACAIT in Fuzhou, China.
 <p align = "center">    
 <img  src="/images/acait.jpg" width="50%" />
@@ -54,7 +54,7 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 <img  src="/images/Xiepeiqi_visiting.jpg" width="35%" />
 </p>
 
-- *2023 12*: &nbsp;🎉🎉 We are five students honoured to  the third prize of the "Huawei Cup" National Graduate Mathematical Modeling Competition.(华为杯研究生数学建模大赛)
+- *2023 12*: &nbsp;🎉🎉 Five of our students won the third prize in the Huawei Cup National Graduate Student Mathematical Modeling Competition. (华为杯研究生数学建模大赛)
 - *2023.11*: &nbsp;🎉🎉 One paper is accepted by the Journal of Cloud Computing (SCI,中科院三区).
 - *2023.10*: &nbsp;🧑‍💻🧑‍💻 Zhengyang He attended ICIP2023 in Kuala Lumpur, Malaysia.
 <p align = "center">    
