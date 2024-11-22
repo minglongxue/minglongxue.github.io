@@ -72,7 +72,7 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 <span class='anchor' id='manuscripts'></span>
 # 🗞️ Manuscripts 
 **2024**
-- He J, Shivakumara P, Ning A and Xue M*. Zero-Shot Low-Light Image Enhancement via Joint Frequency Domain Priors Guided Diffusion[J]. arXiv preprint arXiv:2411.13961，2024.  [[Paper]](https://arxiv.org/pdf/2411.13961) [[Code]]([https://github.com/AXNing/KSID](https://github.com/hejh8/Joint-Wavelet-and-Fourier-priors-guided-diffusion))
+- He J, Shivakumara P, Ning A and Xue M*. Zero-Shot Low-Light Image Enhancement via Joint Frequency Domain Priors Guided Diffusion[J]. arXiv preprint arXiv:2411.13961,2024.  [[Paper]](https://arxiv.org/pdf/2411.13961) [[Code]](https://github.com/hejh8/Joint-Wavelet-and-Fourier-priors-guided-diffusion)
 - He J, Xue M*, Wang W, et al. Optimizing 4D Lookup Table for Low-light Video Enhancement via Wavelet Priori[J].arXiv preprint arXiv:2409.08585,2024. [[Paper]](https://arxiv.org/abs/2409.08585)
 - Ning A, Xue M*, He J, et al. KAN See In the Dark[J]. arXiv preprint arXiv:2409.03404, 2024. [[Paper]](https://arxiv.org/pdf/2409.03404) [[Code]](https://github.com/AXNing/KSID)
 - Fan S, Xue M*, Ning A, et al. Addressing Domain Discrepancy: A Dual-branch Collaborative Model to Unsupervised Dehazing[J]. arXiv preprint arXiv:2407.10226, 2024. [[Paper]](https://arxiv.org/pdf/2407.10226)
