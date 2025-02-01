@@ -79,14 +79,13 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 <span class='anchor' id='manuscripts'></span>
 # 🗞️ Manuscripts 
 **2025**
--Xue M, Fan S, Palaiahnakote S, et al. UR2P-Dehaze: Learning a Simple Image Dehaze Enhancer via Unpaired Rich Physical Prior[J]. arXiv preprint arXiv:2501.06818, 2025.[[Paper]](https://arxiv.org/pdf/2501.06818) [[Code]](https://github.com/Fan-pixel/UR2P-Dehaze)
+- Xue M, Fan S, Palaiahnakote S, et al. UR2P-Dehaze: Learning a Simple Image Dehaze Enhancer via Unpaired Rich Physical Prior[J]. arXiv preprint arXiv:2501.06818, 2025.[[Paper]](https://arxiv.org/pdf/2501.06818) [[Code]](https://github.com/Fan-pixel/UR2P-Dehaze)
 
 **2024**
 - Xue M, He J, Palaiahnakote S, et al. Unified Image Restoration and Enhancement: Degradation Calibrated Cycle Reconstruction Diffusion Model[J]. arXiv preprint arXiv:2412.14630, 2024. [[Paper]](https://arxiv.org/pdf/2412.14630) [[Code]](https://github.com/hejh8/CycleRDM)
 - He J, Shivakumara P, Ning A and Xue M*. Zero-Shot Low-Light Image Enhancement via Joint Frequency Domain Priors Guided Diffusion[J]. arXiv preprint arXiv:2411.13961,2024.  [[Paper]](https://arxiv.org/pdf/2411.13961) [[Code]](https://github.com/hejh8/Joint-Wavelet-and-Fourier-priors-guided-diffusion)
 - He J, Xue M*, Wang W, et al. Optimizing 4D Lookup Table for Low-light Video Enhancement via Wavelet Priori[J].arXiv preprint arXiv:2409.08585,2024. [[Paper]](https://arxiv.org/abs/2409.08585)
 - Ning A, Xue M*, He J, et al. KAN See In the Dark[J]. arXiv preprint arXiv:2409.03404, 2024. [[Paper]](https://arxiv.org/pdf/2409.03404) [[Code]](https://github.com/AXNing/KSID)
-- Fan S, Xue M*, Ning A, et al. Addressing Domain Discrepancy: A Dual-branch Collaborative Model to Unsupervised Dehazing[J]. arXiv preprint arXiv:2407.10226, 2024. [[Paper]](https://arxiv.org/pdf/2407.10226) [[Code]](https://github.com/Fan-pixel/DCM-dehaze)
 - Xue M, He J, He Y, et al. Low-light image enhancement via clip-fourier guided wavelet diffusion[J]. arXiv preprint arXiv:2401.03788, 2024. [[Paper]](https://arxiv.org/pdf/2401.03788) [[Code]](https://github.com/hejh8/CFWD)
 
 
