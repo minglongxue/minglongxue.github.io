@@ -101,8 +101,15 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 </div>
 </div>
 -->
+
+
+**2025**
+- [PRL] Fan S, Xue M*, Ning A et al. Addressing domain discrepancy: A dual-branch collaborative model to unsupervised dehazing, Pattern Recognition Letters, 2025. (SCI,中科院三区). [[Paper]](https://doi.org/10.1016/j.patrec.2025.01.022) [[Code]](https://github.com/Fan-pixel/DCM-dehaze
+)
+- [IJPRAI] He Y, He J, Xue M*, Zhong S, and Zhou M, Hybrid-Domain Attention Dense Network For Efficient Image Super-Resolution, International Journal of Pattern Recognition and Artificial Intelligence, 2025.(SCI, 中科院四区). [[Paper]](https://doi.org/10.1142/S0218001425540035) [[Code]](https://github.com/Yuii666/HADN)
+- [ESWA] Ning A, Xue M* et al. Artistic-style text detector and a new Movie-Poster dataset. Expert Systems With Applications, 261, 125544.(SCI, 中科院一区). [[Paper]](https://www.sciencedirect.com/science/article/pii/S0957417424024114) [[Code]](https://github.com/AXNing/Artistic-style-text-detection)
+  
 **2024**
-- [ESWA] Ning A, Xue M* et al. Artistic-style text detector and a new Movie-Poster dataset. Expert Systems With Applications, 2024 (Accepted) (SCI, 中科院一区). [[Paper]](https://www.sciencedirect.com/science/article/pii/S0957417424024114) [[Code]](https://github.com/AXNing/Artistic-style-text-detection)
 - [ACML'24] He J, Xue M* et al. Zero-LED: Zero-Reference Lighting Estimation Diffusion Model for Low-Light Image Enhancement. Asian Conference on Machine Learning, Hanoi, Vietnam, 2024  (CCF-C) [[Paper]](https://arxiv.org/pdf/2403.02879) (Accepted)
 - [ICPR'24] Xie P, He J, Song C and Xue M*. A Novel Encoder-Decoder Network with Multi-domain Information Fusion for Video Deblurring. 27th International Conference on Pattern Recognition, Kolkata, India, 2024. (CCF-C) (Accepted )
 - [IEEE SPL] Xue M, He Y, He J, et al. DLDiff: Image Detail-guided Latent Diffusion Model for Low-Light Image Enhancement. IEEE Signal Processing Letters, 2024. (SCI, 中科院二区) [[Paper]](https://ieeexplore.ieee.org/document/10663248) [[Code]](https://github.com/Yuii666/DLDiff)
