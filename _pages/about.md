@@ -78,6 +78,9 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 
 <span class='anchor' id='manuscripts'></span>
 # 🗞️ Manuscripts 
+**2025**
+-Xue M, Fan S, Palaiahnakote S, et al. UR2P-Dehaze: Learning a Simple Image Dehaze Enhancer via Unpaired Rich Physical Prior[J]. arXiv preprint arXiv:2501.06818, 2025.[[Paper]](https://arxiv.org/pdf/2501.06818) [[Code]](https://github.com/Fan-pixel/UR2P-Dehaze)
+
 **2024**
 - Xue M, He J, Palaiahnakote S, et al. Unified Image Restoration and Enhancement: Degradation Calibrated Cycle Reconstruction Diffusion Model[J]. arXiv preprint arXiv:2412.14630, 2024. [[Paper]](https://arxiv.org/pdf/2412.14630) [[Code]](https://github.com/hejh8/CycleRDM)
 - He J, Shivakumara P, Ning A and Xue M*. Zero-Shot Low-Light Image Enhancement via Joint Frequency Domain Priors Guided Diffusion[J]. arXiv preprint arXiv:2411.13961,2024.  [[Paper]](https://arxiv.org/pdf/2411.13961) [[Code]](https://github.com/hejh8/Joint-Wavelet-and-Fourier-priors-guided-diffusion)
@@ -111,7 +114,8 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
   
 **2024**
 - [ACML'24] He J, Xue M* et al. Zero-LED: Zero-Reference Lighting Estimation Diffusion Model for Low-Light Image Enhancement. Asian Conference on Machine Learning, Hanoi, Vietnam, 2024  (CCF-C) [[Paper]](https://arxiv.org/pdf/2403.02879) (Accepted)
-- [ICPR'24] Xie P, He J, Song C and Xue M*. A Novel Encoder-Decoder Network with Multi-domain Information Fusion for Video Deblurring. 27th International Conference on Pattern Recognition, Kolkata, India, 2024. (CCF-C) (Accepted )
+- [ICPR'24] Xie P, He J, Song C and Xue M*. A Novel Encoder-Decoder Network with Multi-domain Information Fusion for Video Deblurring. 27th International Conference on Pattern Recognition, Kolkata, India, 2024. (CCF-C) [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-78125-4_11) [[Code]](https://github.com/Paige-Norton/STFFNet)
+- 
 - [IEEE SPL] Xue M, He Y, He J, et al. DLDiff: Image Detail-guided Latent Diffusion Model for Low-Light Image Enhancement. IEEE Signal Processing Letters, 2024. (SCI, 中科院二区) [[Paper]](https://ieeexplore.ieee.org/document/10663248) [[Code]](https://github.com/Yuii666/DLDiff)
   
 **2023**
