@@ -34,6 +34,7 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 <p align = "center">    
 <img  src="/images/2025Thai.jpg" width="50%" />
 </p>
+
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by IJPRAI (SCI,中科院四区).
 - *2024.12*: &nbsp;🧑‍💻🧑‍💻 Minglong Xue and Jinhong He attended ACML2024 in Hanoi, Vietnam.
 <p align = "center">    
