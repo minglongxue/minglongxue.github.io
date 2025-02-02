@@ -32,7 +32,7 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted by PRL (SCI,中科院三区).
 - *2025.01*: &nbsp;🧑‍💻🧑‍💻 Jianfeng Fu and Kaiwen Chen conducted a study tour at the Royal Institute of Technology in Thailand.
 <p align = "center">    
-<img  src="/images/2025Thai.jpg" width="35%" />
+<img  src="/images/2025Thai.jpg" width="50%" />
 </p>
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by IJPRAI (SCI,中科院四区).
 - *2024.12*: &nbsp;🧑‍💻🧑‍💻 Minglong Xue and Jinhong He attended ACML2024 in Hanoi, Vietnam.
