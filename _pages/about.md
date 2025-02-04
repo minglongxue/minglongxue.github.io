@@ -119,7 +119,6 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 **2024**
 - [ACML'24] He J, Xue M* et al. Zero-LED: Zero-Reference Lighting Estimation Diffusion Model for Low-Light Image Enhancement. Asian Conference on Machine Learning, Hanoi, Vietnam, 2024  (CCF-C) [[Paper]](https://arxiv.org/pdf/2403.02879) (Accepted)
 - [ICPR'24] Xie P, He J, Song C and Xue M*. A Novel Encoder-Decoder Network with Multi-domain Information Fusion for Video Deblurring. 27th International Conference on Pattern Recognition, Kolkata, India, 2024. (CCF-C) [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-78125-4_11) [[Code]](https://github.com/Paige-Norton/STFFNet)
-- 
 - [IEEE SPL] Xue M, He Y, He J, et al. DLDiff: Image Detail-guided Latent Diffusion Model for Low-Light Image Enhancement. IEEE Signal Processing Letters, 2024. (SCI, 中科院二区) [[Paper]](https://ieeexplore.ieee.org/document/10663248) [[Code]](https://github.com/Yuii666/DLDiff)
   
 **2023**
