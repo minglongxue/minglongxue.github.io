@@ -29,6 +29,7 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 - Deep Learning
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉🎉 One paper is accepted by SPL (SCI,中科院二区).
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted by PRL (SCI,中科院三区).
 - *2025.01*: &nbsp;🧑‍💻🧑‍💻 Jianfeng Fu and Kaiwen Chen conducted a study tour at the Royal Institute of Technology in Thailand.
 <p align = "center">    
