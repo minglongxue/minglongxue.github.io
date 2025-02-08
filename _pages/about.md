@@ -159,4 +159,4 @@ Discussions or cooperations are warmly welcome. If you want to join my group, pl
 
 &nbsp;&nbsp;
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=cz2U0XiXTAuHU-x5oZWV-10zvpztRcz-mPAccm2QIfg&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=cz2U0XiXTAuHU-x5oZWV-10zvpztRcz-mPAccm2QIfg"></script>
