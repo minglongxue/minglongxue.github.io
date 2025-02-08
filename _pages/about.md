@@ -153,7 +153,7 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 | 2021   | Zhengyang He  | 2024 |
 
 <span class='anchor' id='join'></span>
-# ⭐️ Join Us?
+# ⭐️ Join Us? ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=minglongxue.github.io)
 Discussions or cooperations are warmly welcome. If you want to join my group, please feel free to contact me via Email at xueml@cqut.edu.cn.
 
 
