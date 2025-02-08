@@ -157,4 +157,4 @@ Discussions or cooperations are warmly welcome. If you want to join my group, pl
 
 
 &nbsp;&nbsp;
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=minglongxue.github.io)
+
