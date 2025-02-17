@@ -30,14 +30,14 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 - Deep Learning
 
 # 🔥 News
-- *2025.02*: &nbsp;🎉🎉 One paper is accepted by SPL (SCI,中科院二区).
-- *2025.01*: &nbsp;🎉🎉 One paper is accepted by PRL (SCI,中科院三区).
+- *2025.02*: &nbsp;🎉🎉 One paper is accepted by IEEE Signal Processing Letters (SCI,中科院二区).
+- *2025.01*: &nbsp;🎉🎉 One paper is accepted by Pattern Recognition Letters (SCI,中科院三区).
 - *2025.01*: &nbsp;🧑‍💻🧑‍💻 Jianfeng Fu and Kaiwen Chen conducted a study tour at the Royal Institute of Technology in Thailand.
 <p align = "center">    
 <img  src="/images/2025Thai.jpg" width="50%" />
 </p>
 
-- *2024.12*: &nbsp;🎉🎉 One paper is accepted by IJPRAI (SCI,中科院四区).
+- *2024.12*: &nbsp;🎉🎉 One paper is accepted by International Journal of Pattern Recognition and Artificial Intelligence  (SCI,中科院四区).
 - *2024.12*: &nbsp;🧑‍💻🧑‍💻 Minglong Xue and Jinhong He attended ACML2024 in Hanoi, Vietnam.
 <p align = "center">    
 <img  src="/images/acml.jpg" width="50%" />
