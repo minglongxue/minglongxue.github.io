@@ -49,7 +49,7 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 <img  src="/images/acait.jpg" width="50%" />
 </p>
 
-- *2024.10*: &nbsp;🎉🎉 One paper is accepted by ESWA (SCI,中科院一区).
+- *2024.10*: &nbsp;🎉🎉 One paper is accepted by Expert Systems with Applications (SCI,中科院一区).
 - *2024.10*: &nbsp;🎉🎉 Two students were selected as candidates for the National Graduate Scholarship.
 - *2024.09*: &nbsp;👥👥 Warmly welcome three new graduate students to join us.
 <p align = "center">    
@@ -100,7 +100,7 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 
 
 **2025**
-- [IEEE SPL] Ning A, Xue M*, He J, et al. KAN See In the Dark[J]. IEEE Signal Processing Letters, 2025. (SCI, 中科院二区, Accepted) [[Paper]](https://arxiv.org/pdf/2409.03404) [[Code]](https://github.com/AXNing/KSID)
+- [IEEE SPL] Ning A, Xue M*, He J, et al. KAN See In the Dark[J]. IEEE Signal Processing Letters, 2025. (SCI, 中科院二区, Accepted) [[Paper]](https://doi.org/10.1109/LSP.2025.3540700) [[Code]](https://github.com/AXNing/KSID)
 - [PRL] Fan S, Xue M*, Ning A et al. Addressing domain discrepancy: A dual-branch collaborative model to unsupervised dehazing, Pattern Recognition Letters, 2025. (SCI,中科院三区). [[Paper]](https://doi.org/10.1016/j.patrec.2025.01.022) [[Code]](https://github.com/Fan-pixel/DCM-dehaze
 )
 - [IJPRAI] He Y, He J, Xue M*, Zhong S, and Zhou M, Hybrid-Domain Attention Dense Network For Efficient Image Super-Resolution, International Journal of Pattern Recognition and Artificial Intelligence, 2025.(SCI, 中科院四区). [[Paper]](https://doi.org/10.1142/S0218001425540035) [[Code]](https://github.com/Yuii666/HADN)
