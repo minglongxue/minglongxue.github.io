@@ -30,7 +30,7 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 - Deep Learning
 
 # 🔥 News
-- *2025.02*: &nbsp;🎉🎉 One paper is accepted by IEEE Signal Processing Letters (SCI,中科院二区).
+- *2025.02*: &nbsp;🎉🎉 Two papers are accepted by IEEE Signal Processing Letters (SCI,中科院二区).
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted by Pattern Recognition Letters (SCI,中科院三区).
 - *2025.01*: &nbsp;🧑‍💻🧑‍💻 Jianfeng Fu and Kaiwen Chen conducted a study tour at the Royal Institute of Technology in Thailand.
 <p align = "center">    
@@ -90,7 +90,6 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 
 **2024**
 - Xue M, He J, Palaiahnakote S, et al. Unified Image Restoration and Enhancement: Degradation Calibrated Cycle Reconstruction Diffusion Model[J]. arXiv preprint arXiv:2412.14630, 2024. [[Paper]](https://arxiv.org/pdf/2412.14630) [[Code]](https://github.com/hejh8/CycleRDM)
-- He J, Shivakumara P, Ning A and Xue M*. Zero-Shot Low-Light Image Enhancement via Joint Frequency Domain Priors Guided Diffusion[J]. arXiv preprint arXiv:2411.13961,2024.  [[Paper]](https://arxiv.org/pdf/2411.13961) [[Code]](https://github.com/hejh8/Joint-Wavelet-and-Fourier-priors-guided-diffusion)
 - He J, Xue M*, Wang W, et al. Optimizing 4D Lookup Table for Low-light Video Enhancement via Wavelet Priori[J].arXiv preprint arXiv:2409.08585,2024. [[Paper]](https://arxiv.org/abs/2409.08585)
 - Xue M, He J, He Y, et al. Low-light image enhancement via clip-fourier guided wavelet diffusion[J]. arXiv preprint arXiv:2401.03788, 2024. [[Paper]](https://arxiv.org/pdf/2401.03788) [[Code]](https://github.com/hejh8/CFWD)
 
@@ -100,7 +99,8 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 
 
 **2025**
-- [IEEE SPL] Ning A, Xue M*, He J, et al. KAN See In the Dark[J]. IEEE Signal Processing Letters, 2025. (SCI, 中科院二区, Accepted) [[Paper]](https://doi.org/10.1109/LSP.2025.3540700) [[Code]](https://github.com/AXNing/KSID)
+- [IEEE SPL] He J, Shivakumara P, Ning A and Xue M*. Zero-Shot Low-Light Image Enhancement via Joint Frequency Domain Priors Guided Diffusion[J]. IEEE Signal Processing Letters, 2025. (SCI, 中科院二区, Accepted)  [[Paper]](https://arxiv.org/pdf/2411.13961) [[Code]](https://github.com/hejh8/Joint-Wavelet-and-Fourier-priors-guided-diffusion)
+- [IEEE SPL] Ning A, Xue M*, He J, et al. KAN See In the Dark[J]. IEEE Signal Processing Letters, 2025. (SCI, 中科院二区) [[Paper]](https://doi.org/10.1109/LSP.2025.3540700) [[Code]](https://github.com/AXNing/KSID)
 - [PRL] Fan S, Xue M*, Ning A et al. Addressing domain discrepancy: A dual-branch collaborative model to unsupervised dehazing, Pattern Recognition Letters, 2025. (SCI,中科院三区). [[Paper]](https://doi.org/10.1016/j.patrec.2025.01.022) [[Code]](https://github.com/Fan-pixel/DCM-dehaze
 )
 - [IJPRAI] He Y, He J, Xue M*, Zhong S, and Zhou M, Hybrid-Domain Attention Dense Network For Efficient Image Super-Resolution, International Journal of Pattern Recognition and Artificial Intelligence, 2025.(SCI, 中科院四区). [[Paper]](https://doi.org/10.1142/S0218001425540035) [[Code]](https://github.com/Yuii666/HADN)
