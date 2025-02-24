@@ -37,7 +37,7 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 <img  src="/images/2025Thai.jpg" width="50%" />
 </p>
 
-- *2024.12*: &nbsp;🎉🎉 One paper is accepted by International Journal of Pattern Recognition and Artificial Intelligence  (SCI,中科院四区).
+- *2024.12*: &nbsp;🎉🎉 One paper is accepted by the International Journal of Pattern Recognition and Artificial Intelligence  (SCI,中科院四区).
 - *2024.12*: &nbsp;🧑‍💻🧑‍💻 Minglong Xue and Jinhong He attended ACML2024 in Hanoi, Vietnam.
 <p align = "center">    
 <img  src="/images/acml.jpg" width="50%" />
@@ -50,7 +50,7 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 </p>
 
 - *2024.10*: &nbsp;🎉🎉 One paper is accepted by Expert Systems with Applications (SCI,中科院一区).
-- *2024.10*: &nbsp;🎉🎉 Two students were selected as candidates for the National Graduate Scholarship (研究生国家奖学金).
+- *2024.10*: &nbsp;🎉🎉 Yanyi He and Shuaibin Fan are selected as candidates for the National Graduate Scholarship (研究生国家奖学金).
 - *2024.09*: &nbsp;👥👥 Warmly welcome three new graduate students to join us.
 <p align = "center">    
 <img  src="/images/2024.jpg" width="50%" />
