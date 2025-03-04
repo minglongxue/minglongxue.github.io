@@ -95,11 +95,8 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 
 
 # 📝 Publications 
-
-
-
 **2025**
-- [IEEE SPL] He J, Shivakumara P, Ning A and Xue M*. Zero-Shot Low-Light Image Enhancement via Joint Frequency Domain Priors Guided Diffusion[J]. IEEE Signal Processing Letters, 2025. (SCI, 中科院二区, Accepted)  [[Paper]](https://ieeexplore.ieee.org/document/10909219) [[Code]](https://github.com/hejh8/Joint-Wavelet-and-Fourier-priors-guided-diffusion)
+- [IEEE SPL] He J, Shivakumara P, Ning A and Xue M*. Zero-Shot Low-Light Image Enhancement via Joint Frequency Domain Priors Guided Diffusion[J]. IEEE Signal Processing Letters, 2025. (SCI, 中科院二区) [[Paper]](https://ieeexplore.ieee.org/document/10909219) [[Code]](https://github.com/hejh8/Joint-Wavelet-and-Fourier-priors-guided-diffusion)
 - [IEEE SPL] Ning A, Xue M*, He J, et al. KAN See In the Dark[J]. IEEE Signal Processing Letters, 2025. (SCI, 中科院二区) [[Paper]](https://doi.org/10.1109/LSP.2025.3540700) [[Code]](https://github.com/AXNing/KSID)
 - [PRL] Fan S, Xue M*, Ning A et al. Addressing domain discrepancy: A dual-branch collaborative model to unsupervised dehazing, Pattern Recognition Letters, 2025. (SCI,中科院三区). [[Paper]](https://doi.org/10.1016/j.patrec.2025.01.022) [[Code]](https://github.com/Fan-pixel/DCM-dehaze
 )
