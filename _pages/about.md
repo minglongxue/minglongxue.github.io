@@ -1,4 +1,4 @@
----
+<img width="785" alt="6eedd5e460ea8d001035de207734be8" src="https://github.com/user-attachments/assets/67f476f7-1397-4818-bae1-037f41fffa08" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -30,6 +30,7 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 - Deep Learning
 
 # 🔥 News
+- *2025.03*: &nbsp;🎉🎉 One paper is accepted by The Visual Computer (SCI,中科院三区).
 - *2025.02*: &nbsp;🎉🎉 Two papers are accepted by IEEE Signal Processing Letters (SCI,中科院二区).
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted by Pattern Recognition Letters (SCI,中科院三区).
 - *2025.01*: &nbsp;🧑‍💻🧑‍💻 Jianfeng Fu and Kaiwen Chen conducted a study tour at the Royal Institute of Technology in Thailand.
