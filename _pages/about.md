@@ -1,7 +1,8 @@
 
+---
 permalink: /
-title: ""
-excerpt: ""
+title: "Minglong Xue"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
