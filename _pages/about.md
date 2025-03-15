@@ -111,16 +111,16 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 - [ESWA] Ning A, Xue M* et al. Artistic-style text detector and a new Movie-Poster dataset. Expert Systems With Applications, 261, 125544.(SCI, 中科院一区). [[Paper]](https://www.sciencedirect.com/science/article/pii/S0957417424024114) [[Code]](https://github.com/AXNing/Artistic-style-text-detection)
   
 **2024**
-- [ACML'24] He J, Xue M* et al. Zero-LED: Zero-Reference Lighting Estimation Diffusion Model for Low-Light Image Enhancement. Asian Conference on Machine Learning, Hanoi, Vietnam, 2024  (CCF-C) [[Paper]](https://arxiv.org/pdf/2403.02879) (Accepted)
+- [ACML'24] He J, Xue M* et al. Zero-LED: Zero-Reference Lighting Estimation Diffusion Model for Low-Light Image Enhancement. Asian Conference on Machine Learning, Hanoi, Vietnam, 2024  (CCF-C) [[Paper]](https://arxiv.org/pdf/2403.02879) 
 - [ICPR'24] Xie P, He J, Song C and Xue M*. A Novel Encoder-Decoder Network with Multi-domain Information Fusion for Video Deblurring. 27th International Conference on Pattern Recognition, Kolkata, India, 2024. (CCF-C) [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-78125-4_11) [[Code]](https://github.com/Paige-Norton/STFFNet)
 - [IEEE SPL] Xue M, He Y, He J, et al. DLDiff: Image Detail-guided Latent Diffusion Model for Low-Light Image Enhancement. IEEE Signal Processing Letters, 2024. (SCI, 中科院二区) [[Paper]](https://ieeexplore.ieee.org/document/10663248) [[Code]](https://github.com/Yuii666/DLDiff)
   
 **2023**
-- [Journal of Cloud Computing] Minglong Xue, Yanyi He, Peiqi Xie, Zhengyang He and Xin Feng. “LAE-GAN: a novel cloud-based Low-light Attention Enhancement Generative Adversarial Network for unpaired text images” Journal of Cloud Computing, 12(160), online, 2023 (SCI, 中科院三区) [[Paper]](https://link.springer.com/content/pdf/10.1186/s13677-023-00533-4.pdf) (Accepted)
-- [ICIP'23] Minglong Xue, Zhengyang He, Yanyi He, Peiqi Xie and Xin Feng. “UT-GAN: A Novel Unpaired Textual-Attention Generative Adversarial Network for Low-Light Text Image Enhancement” in Proc. International Conference on Image Processing (ICIP). 2023: 1980-1984. (EI, CCF-C) [[Paper]](https://ieeexplore.ieee.org/document/10222221) (Accepted)
+- [Journal of Cloud Computing] Minglong Xue, Yanyi He, Peiqi Xie, Zhengyang He and Xin Feng. “LAE-GAN: a novel cloud-based Low-light Attention Enhancement Generative Adversarial Network for unpaired text images” Journal of Cloud Computing, 12(160), online, 2023 (SCI, 中科院三区) [[Paper]](https://link.springer.com/content/pdf/10.1186/s13677-023-00533-4.pdf) 
+- [ICIP'23] Minglong Xue, Zhengyang He, Yanyi He, Peiqi Xie and Xin Feng. “UT-GAN: A Novel Unpaired Textual-Attention Generative Adversarial Network for Low-Light Text Image Enhancement” in Proc. International Conference on Image Processing (ICIP). 2023: 1980-1984. (EI, CCF-C) [[Paper]](https://ieeexplore.ieee.org/document/10222221) 
 
 **2022**
-- [ICPR'22] Zhang, Yin, Chengyun Song, and Minglong Xue*. “PSND: A Robust Parking Space Number Detector” in Proc. 2022 26th International Conference on Pattern Recognition (ICPR). IEEE, 2022: 1742-1748. (EI, CCF-C) (Accepted)
+- [ICPR'22] Zhang, Yin, Chengyun Song, and Minglong Xue*. “PSND: A Robust Parking Space Number Detector” in Proc. 2022 26th International Conference on Pattern Recognition (ICPR). IEEE, 2022: 1742-1748. (EI, CCF-C) 
 
 **before 2022**
 - [TMM'21] Minglong Xue, Palaiahnakote Shivakumara, Chao Zhang, Tong Lu, Umapada Pal, Daniel Lopresti, Zhibo Yang, "Arbitrarily-Oriented Text Detection in Low Light Natural Scene Images” IEEE Transactions on Multimedia, vol. 23, pp. 2706-2720, 2021.(CCF-B, SCI, 中科院一区) 
