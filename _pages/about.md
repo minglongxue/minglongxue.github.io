@@ -31,6 +31,10 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 
 # 🔥 News
 - *2025.03*: &nbsp;🎉🎉 One paper is accepted by The Visual Computer (SCI,中科院三区).
+- *2025.03*: &nbsp;🥂🥂 Spring group hiking.
+<p align = "center">    
+<img  src="/images/2025spring.jpg" width="50%" />
+</p>
 - *2025.02*: &nbsp;🎉🎉 Two papers are accepted by IEEE Signal Processing Letters (SCI,中科院二区).
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted by Pattern Recognition Letters (SCI,中科院三区).
 - *2025.01*: &nbsp;🧑‍💻🧑‍💻 Jianfeng Fu and Kaiwen Chen conducted a study tour at the Royal Institute of Technology in Thailand.
