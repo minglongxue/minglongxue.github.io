@@ -58,7 +58,7 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 - *2024.10*: &nbsp;🎉🎉 One paper is accepted by Expert Systems with Applications (SCI,中科院一区).
 - *2024.10*: &nbsp;🎉🎉 Yanyi He and Shuaibin Fan are selected as candidates for the National Graduate Scholarship (研究生国家奖学金).
  <p align = "center">    
-<img  src="/images/guojiang2024.jpg" width="50%" />
+<img  src="/images/guojiang2024.jpg" width="75%" />
 </p>
 
 - *2024.09*: &nbsp;👥👥 Warmly welcome three new graduate students to join us.
