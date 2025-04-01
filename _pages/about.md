@@ -30,7 +30,7 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 - Deep Learning
 
 # 🔥 News
-- *2024.03*: &nbsp;🎉🎉 One paper is accepted by IJCNN 2025(CCF-C).
+- *2024.03*: &nbsp;🎉🎉 One paper is accepted by IJCNN 2025 (CCF-C).
 - *2025.03*: &nbsp;🎉🎉 One paper is accepted by The Visual Computer (SCI,中科院三区).
 - *2025.03*: &nbsp;🥂🥂 Spring group hiking.
 <p align = "center">    
@@ -71,8 +71,8 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 <img  src="/images/2024.jpg" width="50%" />
 </p>
   
-- *2024.09*: &nbsp;🎉🎉 One paper is accepted by ACML 2024(CCF-C).
-- *2024.08*: &nbsp;🎉🎉 One paper is accepted by ICPR 2024(CCF-C).
+- *2024.09*: &nbsp;🎉🎉 One paper is accepted by ACML 2024 (CCF-C).
+- *2024.08*: &nbsp;🎉🎉 One paper is accepted by ICPR 2024 (CCF-C).
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by the IEEE Signal Processing Letters (SCI,中科院二区).
 - *2024.03*: &nbsp;🥂🥂 Team-building activities.
 <p align = "center">    
@@ -96,7 +96,7 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 <img  src="/images/team202309.png" width="50%" />
 </p>
 
-- *2023.06*: &nbsp;🎉🎉 One paper is accepted by ICIP2023(CCF-C).
+- *2023.06*: &nbsp;🎉🎉 One paper is accepted by ICIP2023 (CCF-C).
 
 <span class='anchor' id='manuscripts'></span>
 # 🗞️ Manuscripts 
