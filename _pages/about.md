@@ -30,7 +30,7 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 - Deep Learning
 
 # 🔥 News
-- *2024.03*: &nbsp;🎉🎉 One paper is accepted by IJCNN 2025 (CCF-C).
+- *2024.04*: &nbsp;🎉🎉 One paper is accepted by IJCNN 2025 (CCF-C).
 - *2025.03*: &nbsp;🎉🎉 One paper is accepted by The Visual Computer (SCI,中科院三区).
 - *2025.03*: &nbsp;🥂🥂 Spring group hiking.
 <p align = "center">    
