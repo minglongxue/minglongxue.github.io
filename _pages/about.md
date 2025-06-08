@@ -30,7 +30,8 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 - Deep Learning
 
 # 🔥 News
-- *2024.05*: &nbsp;🎉🎉 Congratulations to He Yanyi and Xie Peiqi for successfully passing their master's degree thesis defense!
+- *2024.06*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Multimedia (SCI,中科院一区).
+- *2024.05*: &nbsp;🎉🎉 Congratulations to Yanyi He and Peiqi Xie for successfully passing their master's degree thesis defense!
 <p align = "center">    
 <img  src="/images/2025biye.jpg" width="50%" />
 </p>
