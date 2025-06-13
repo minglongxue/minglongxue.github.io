@@ -117,8 +117,8 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 
 # 📝 Publications 
 **2025**
-- [PR]  Xue M, Fan S, Palaiahnakote S, et al. UR2P-Dehaze: Learning a Simple Image Dehaze Enhancer via Unpaired Rich Physical Prior[J].Pattern Recognition,2025. (to accepted, SCI, 中科院一区) [[Paper]](https://arxiv.org/pdf/2501.06818) [[Code]](https://github.com/Fan-pixel/UR2P-Dehaze) 
-- [IEEE TMM]  He J, Xue M*, Wang W, et al. Optimizing 4D Lookup Table for Low-light Video Enhancement via Wavelet Priori, IEEE Transactions on Multimedia,2025. (to accepted, SCI, 中科院一区) [[Paper]](https://arxiv.org/abs/2409.08585) [[Code]](https://github.com/hejh8/WaveLUT)
+- [PR]  Xue M, Fan S, Shivakumara P, et al. UR2P-Dehaze: Learning a Simple Image Dehaze Enhancer via Unpaired Rich Physical Prior[J].Pattern Recognition,2025. (to accepted, SCI, 中科院一区) [[Paper]](https://arxiv.org/pdf/2501.06818) [[Code]](https://github.com/Fan-pixel/UR2P-Dehaze) 
+- [IEEE TMM]  He J, Xue M*, Wang W, et al. Optimizing a 4D Lookup Table for Low-light Video Enhancement via Wavelet Priori, IEEE Transactions on Multimedia,2025. (to accepted, SCI, 中科院一区) [[Paper]](https://arxiv.org/abs/2409.08585) [[Code]](https://github.com/hejh8/WaveLUT)
 - [The Visual Computer] Xie P, Xue M* and Song C. A Novel Half-To-All MOTR Approach for Robust Video Text Tracking with Incomplete Annotations [J]. The Visual Computer, 2025. (SCI, 中科院三区) [[Paper]](https://link.springer.com/article/10.1007/s00371-025-03890-0) [[Code]](https://github.com/Paige-Norton/HTAMotr)
 - [IEEE SPL] He J, Shivakumara P, Ning A and Xue M*. Zero-Shot Low-Light Image Enhancement via Joint Frequency Domain Priors Guided Diffusion[J]. IEEE Signal Processing Letters, 2025. (SCI, 中科院二区) [[Paper]](https://ieeexplore.ieee.org/document/10909219) [[Code]](https://github.com/hejh8/Joint-Wavelet-and-Fourier-priors-guided-diffusion)
 - [IEEE SPL] Ning A, Xue M*, He J, et al. KAN See In the Dark[J]. IEEE Signal Processing Letters, 2025. (SCI, 中科院二区) [[Paper]](https://doi.org/10.1109/LSP.2025.3540700) [[Code]](https://github.com/AXNing/KSID)
