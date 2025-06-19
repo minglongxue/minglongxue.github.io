@@ -38,7 +38,7 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 <img  src="/images/2025biye.jpg" width="50%" />
 </p>
 
-- *2024.04*: &nbsp;🎉🎉 One paper is accepted by IJCNN 2025 (CCF-C).
+{%- *2024.04*: &nbsp;🎉🎉 One paper is accepted by IJCNN 2025 (CCF-C). %}
 - *2025.03*: &nbsp;🎉🎉 One paper is accepted by The Visual Computer (SCI,中科院三区).
 - *2025.03*: &nbsp;🥂🥂 Spring group hiking.
 <p align = "center">    
