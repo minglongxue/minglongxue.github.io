@@ -58,7 +58,7 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 <img  src="/images/acml.jpg" width="50%" />
 </p>
 
-- *2024.11*: &nbsp;🎉🎉  Five of our students won the second prize, and two won the third prize in the Huawei Cup National Graduate Student Mathematical Modeling Competition. (华为杯研究生数学建模大赛)
+- *2024.11*: &nbsp;🎉🎉  Five of our students won the second prize, and two won the third prize in the Huawei Cup of National Post-Graduate Mathematical Contest in Modeling. (华为杯研究生数学建模大赛)
 <p align = "center">    
 <img  src="/images/huawei2024.jpg" width="75%" />
 </p>
@@ -92,7 +92,7 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 <img  src="/images/Xiepeiqi_visiting.jpg" width="35%" />
 </p>
 
-- *2023 12*: &nbsp;🎉🎉 Five of our students won the third prize in the Huawei Cup National Graduate Student Mathematical Modeling Competition. (华为杯研究生数学建模大赛)
+- *2023 12*: &nbsp;🎉🎉 Five of our students won the third prize in the Huawei Cup of National Post-Graduate Mathematical Contest in Modeling. (华为杯研究生数学建模大赛)
 - *2023.11*: &nbsp;🎉🎉 One paper is accepted by the Journal of Cloud Computing (SCI,中科院三区).
 - *2023.10*: &nbsp;🧑‍💻🧑‍💻 Zhengyang He attended ICIP2023 in Kuala Lumpur, Malaysia.
 <p align = "center">    
