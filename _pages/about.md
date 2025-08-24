@@ -30,7 +30,7 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 - Deep Learning
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 One paper is accepted by ACM Transactions on Multimedia Computing Communications and Applications (SCI,中科院三区,CCF-B).
+- *2024.08*: &nbsp;🎉🎉 One paper is accepted by ACM Transactions on Multimedia Computing Communications and Applications (SCI,中科院三区,CCF-B).
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2025 (CCF-A).
 - *2024.06*: &nbsp;🎉🎉 One paper is accepted by Pattern Recognition (SCI,中科院一区,CCF-B).
 - *2024.06*: &nbsp;🎉🎉 One paper is accepted by ACAIT 2025.
