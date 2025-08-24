@@ -30,7 +30,7 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 - Deep Learning
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 One paper is accepted by ACM Transactions on Multimedia Computing Communications and Applications 2025 (SCI,中科院三区,CCF-B).
+- *2024.07*: &nbsp;🎉🎉 One paper is accepted by ACM Transactions on Multimedia Computing Communications and Applications (SCI,中科院三区,CCF-B).
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2025 (CCF-A).
 - *2024.06*: &nbsp;🎉🎉 One paper is accepted by Pattern Recognition (SCI,中科院一区,CCF-B).
 - *2024.06*: &nbsp;🎉🎉 One paper is accepted by ACAIT 2025.
@@ -115,12 +115,12 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 - Xue M, Ning A, Palaiahnakote S, et al. DFDNet: Dynamic Frequency-Guided De-Flare Network[J]. arXiv preprint arXiv:2507.17489, 2025.  [[Paper]](https://arxiv.org/pdf/2507.17489) [[Code]](https://github.com/AXNing/DFDNet)
 
 
-**2024**
-- Xue M, He J, He Y, et al. Low-light image enhancement via clip-fourier guided wavelet diffusion[J]. arXiv preprint arXiv:2401.03788, 2024. [[Paper]](https://arxiv.org/pdf/2401.03788) [[Code]](https://github.com/hejh8/CFWD)
 
 
 # 📝 Publications (Journal & Conference Papers)
 **2025**
+- [ACM TOMM] Xue M, He J, Wang W and Zhou M. Low-light image enhancement via clip-fourier guided wavelet diffusion[J]. ACM Transactions on Multimedia Computing Communications and Applications, 2025  (to accept, SCI, CCF-B). . [[Paper]](https://arxiv.org/pdf/2401.03788) [[Code]](https://github.com/hejh8/CFWD)
+
 - [ACM MM 2025] He J, Xue M*, Liu Z, et al. Degradation-Consistent Learning via Bidirectional Diffusion for Low-Light Image Enhancement, ACM conference on Multimedia 2025 (to accept, CCF-A). [[Paper]](https://arxiv.org/pdf/2507.18144) [[Code]](https://github.com/hejh8/BidDiff)
 - [PR]  Xue M, He J, Palaiahnakote S, et al. Unified Image Restoration and Enhancement: Degradation Calibrated Cycle Reconstruction Diffusion Model[J]. Pattern Recognition,2025. (to accepted, SCI, 中科院一区) [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0031320325007332) [[Code]](https://github.com/hejh8/CycleRDM)
 - [PR]  Xue M, Fan S, Shivakumara P, et al. UR2P-Dehaze: Learning a Simple Image Dehaze Enhancer via Unpaired Rich Physical Prior[J]. Pattern Recognition,2025. (to accepted, SCI, 中科院一区) [[Paper]](https://doi.org/10.1016/j.patcog.2025.111997) [[Code]](https://github.com/Fan-pixel/UR2P-Dehaze) 
