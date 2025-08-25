@@ -119,6 +119,7 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 
 # 📝 Publications 
 (Journal & Conference Papers)
+
 **2025**
 - [ACM TOMM] Xue M, He J, Wang W and Zhou M. Low-light image enhancement via clip-fourier guided wavelet diffusion[J]. ACM Transactions on Multimedia Computing Communications and Applications, 2025  (to accept, SCI, CCF-B). [[Paper]](https://arxiv.org/pdf/2401.03788) [[Code]](https://github.com/hejh8/CFWD)
 
