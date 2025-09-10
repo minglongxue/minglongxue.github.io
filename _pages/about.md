@@ -121,7 +121,7 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 (Journal & Conference Papers)
 
 **2025**
-- [ACM TOMM] Xue M, He J, Wang W and Zhou M. Low-light image enhancement via clip-fourier guided wavelet diffusion[J]. ACM Transactions on Multimedia Computing Communications and Applications, 2025  (to accept, SCI, CCF-B). [[Paper]](https://arxiv.org/pdf/2401.03788) [[Code]](https://github.com/hejh8/CFWD)
+- [ACM TOMM] Xue M, He J, Wang W and Zhou M. Low-light image enhancement via clip-fourier guided wavelet diffusion[J]. ACM Transactions on Multimedia Computing Communications and Applications, 2025  (to accept, SCI, CCF-B). [[Paper]](https://dl.acm.org/doi/10.1145/3764933) [[Code]](https://github.com/hejh8/CFWD)
 
 - [ACM MM 2025] He J, Xue M*, Liu Z, et al. Degradation-Consistent Learning via Bidirectional Diffusion for Low-Light Image Enhancement, ACM conference on Multimedia 2025 (to accept, CCF-A). [[Paper]](https://arxiv.org/pdf/2507.18144) [[Code]](https://github.com/hejh8/BidDiff)
 - [PR]  Xue M, He J, Palaiahnakote S, et al. Unified Image Restoration and Enhancement: Degradation Calibrated Cycle Reconstruction Diffusion Model[J]. Pattern Recognition,2025. (to accepted, SCI, 中科院一区) [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0031320325007332) [[Code]](https://github.com/hejh8/CycleRDM)
@@ -168,18 +168,23 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 
 | Begin | Name | End |
 |:--------|:-------:|--------:|
+| 2025   | Yi Qu       | 2028 |
+| 2025   | Xiaoru Gao  | 2028 |
+| 2025   | Xukun Shang | 2028 |
+| 2025   | Xukang Wang | 2028 |
+|=============================|
 | 2024   | Jianfeng Fu | 2027 |
 | 2024   | Wenchao Yan | 2027 |
 | 2024   | Kaiwen Chen | 2027 |
 |=============================|
-| 2023   | Aoxiang Ning | 2026 |
-| 2023   | Jinhong He | 2026 |
-| 2023   | Shuaibin Fan | 2026 |
+| 2023   | Aoxiang Ning| 2026 |
+| 2023   | Jinhong He  | 2026 |
+| 2023   | Shuaibin Fan| 2026 |
 |=============================|
-| 2022   | Peiqi Xie | 2025 |
-| 2022   | Yanyi He | 2025 |
+| 2022   | Peiqi Xie   | 2025 |
+| 2022   | Yanyi He    | 2025 |
 |=============================|
-| 2021   | Zhengyang He  | 2024 |
+| 2021   | Zhengyang He| 2024 |
 
 <span class='anchor' id='join'></span>
 # ⭐️ Join Us? ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=minglongxue.github.io)
