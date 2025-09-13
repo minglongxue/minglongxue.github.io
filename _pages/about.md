@@ -30,7 +30,7 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 - Deep Learning
 
 # 🔥 News
-- *2025.09*: &nbsp;👥👥 Warmly welcome four new guys to join us.
+- *2025.09*: &nbsp;👥👥 Warmly welcome four new students to join us.
 <p align = "center">    
 <img  src="/images/2025heying.jpg" width="50%" />
 </p>
