@@ -35,18 +35,18 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 <img  src="/images/2025heying.jpg" width="50%" />
 </p>
 
-- *2024.08*: &nbsp;🎉🎉 One paper is accepted by ACM Transactions on Multimedia Computing Communications and Applications (SCI,中科院三区,CCF-B).
-- *2024.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2025 (CCF-A).
-- *2024.06*: &nbsp;🎉🎉 One paper is accepted by Pattern Recognition (SCI,中科院一区,CCF-B).
-- *2024.06*: &nbsp;🎉🎉 One paper is accepted by ACAIT 2025.
-- *2024.06*: &nbsp;🎉🎉 One paper is accepted by Pattern Recognition (SCI,中科院一区,CCF-B).
-- *2024.06*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Multimedia (SCI,中科院一区,CCF-B).
-- *2024.05*: &nbsp;🎉🎉 Congratulations to Yanyi He and Peiqi Xie for successfully passing their master's degree thesis defense!
+- *2025.08*: &nbsp;🎉🎉 One paper is accepted by ACM Transactions on Multimedia Computing Communications and Applications (SCI,中科院三区,CCF-B).
+- *2025.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2025 (CCF-A).
+- *2025.06*: &nbsp;🎉🎉 One paper is accepted by Pattern Recognition (SCI,中科院一区,CCF-B).
+- *2025.06*: &nbsp;🎉🎉 One paper is accepted by ACAIT 2025.
+- *2025.06*: &nbsp;🎉🎉 One paper is accepted by Pattern Recognition (SCI,中科院一区,CCF-B).
+- *2025.06*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Multimedia (SCI,中科院一区,CCF-B).
+- *2025.05*: &nbsp;🎉🎉 Congratulations to Yanyi He and Peiqi Xie for successfully passing their master's degree thesis defense!
 <p align = "center">    
 <img  src="/images/2025biye.jpg" width="50%" />
 </p>
 
-- *2024.04*: &nbsp;🎉🎉 One paper is accepted by IJCNN 2025 (CCF-C).
+- *2025.04*: &nbsp;🎉🎉 One paper is accepted by IJCNN 2025 (CCF-C).
 - *2025.03*: &nbsp;🎉🎉 One paper is accepted by The Visual Computer (SCI,中科院三区,CCF-C).
 - *2025.03*: &nbsp;🥂🥂 Spring group hiking.
 <p align = "center">    
