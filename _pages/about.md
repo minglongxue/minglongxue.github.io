@@ -30,6 +30,7 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 - Deep Learning
 
 # 🔥 News
+- *2025.10*: &nbsp;🎉🎉 Jinhong He, Shuaibin Fan and Aoxiang Ning are selected as candidates for the National Graduate Scholarship in 2025 (研究生国家奖学金).
 - *2025.09*: &nbsp;👥👥 Warmly welcome four new students to join us.
 <p align = "center">    
 <img  src="/images/2025heying.jpg" width="50%" />
@@ -77,7 +78,7 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 </p>
 
 - *2024.10*: &nbsp;🎉🎉 One paper is accepted by Expert Systems with Applications (SCI,中科院一区).
-- *2024.10*: &nbsp;🎉🎉 Yanyi He and Shuaibin Fan are selected as candidates for the National Graduate Scholarship (研究生国家奖学金).
+- *2024.10*: &nbsp;🎉🎉 Yanyi He and Shuaibin Fan are selected as candidates for the National Graduate Scholarship in 2024 (研究生国家奖学金).
  <p align = "center">    
 <img  src="/images/guojiang2024.jpg" width="75%" />
 </p>
