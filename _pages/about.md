@@ -128,8 +128,9 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 (Journal & Conference Papers)
 
 **2025**
+- [SP]  Yan W, Xue M*, Shivakumara P, et al. DFCCNet: Unified Dual-domain Fusion and Color-aware Residual Correction for Robust Single Image Dehazing [J]. Signal Processing,110360,2025. (SCI, 中科院二区) [[Paper]](https://doi.org/10.1016/j.sigpro.2025.110360) [[Code]]( https://github.com/wenchao-tech/DFCCNet-main)
+  
 - [ACM TOMM] Xue M, He J, Wang W and Zhou M. Low-light image enhancement via clip-fourier guided wavelet diffusion[J]. ACM Transactions on Multimedia Computing Communications and Applications, 2025  (to accept, SCI, CCF-B). [[Paper]](https://dl.acm.org/doi/10.1145/3764933) [[Code]](https://github.com/hejh8/CFWD)
-
 - [ACM MM 2025] He J, Xue M*, Liu Z, et al. Degradation-Consistent Learning via Bidirectional Diffusion for Low-Light Image Enhancement, ACM conference on Multimedia 2025 (to accept, CCF-A). [[Paper]](https://arxiv.org/pdf/2507.18144) [[Code]](https://github.com/hejh8/BidDiff)
 - [PR]  Xue M, He J, Palaiahnakote S, et al. Unified Image Restoration and Enhancement: Degradation Calibrated Cycle Reconstruction Diffusion Model[J]. Pattern Recognition,2025. (to accepted, SCI, 中科院一区) [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0031320325007332) [[Code]](https://github.com/hejh8/CycleRDM)
 - [PR]  Xue M, Fan S, Shivakumara P, et al. UR2P-Dehaze: Learning a Simple Image Dehaze Enhancer via Unpaired Rich Physical Prior[J]. Pattern Recognition,2025. (to accepted, SCI, 中科院一区) [[Paper]](https://doi.org/10.1016/j.patcog.2025.111997) [[Code]](https://github.com/Fan-pixel/UR2P-Dehaze) 
@@ -140,9 +141,10 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 - [PRL] Fan S, Xue M*, Ning A et al. Addressing domain discrepancy: A dual-branch collaborative model to unsupervised dehazing, Pattern Recognition Letters, 2025. (SCI,中科院三区). [[Paper]](https://doi.org/10.1016/j.patrec.2025.01.022) [[Code]](https://github.com/Fan-pixel/DCM-dehaze
 )
 - [IJPRAI] He Y, He J, Xue M*, Zhong S, and Zhou M, Hybrid-Domain Attention Dense Network For Efficient Image Super-Resolution, International Journal of Pattern Recognition and Artificial Intelligence, 2025.(SCI, 中科院四区). [[Paper]](https://doi.org/10.1142/S0218001425540035) [[Code]](https://github.com/Yuii666/HADN)
-- [ESWA] Ning A, Xue M* et al. Artistic-style text detector and a new Movie-Poster dataset. Expert Systems With Applications, 261, 125544.(SCI, 中科院一区). [[Paper]](https://www.sciencedirect.com/science/article/pii/S0957417424024114) [[Code]](https://github.com/AXNing/Artistic-style-text-detection)
+
   
 **2024**
+- [ESWA] Ning A, Xue M* et al. Artistic-style text detector and a new Movie-Poster dataset. Expert Systems With Applications, 261, 125544.(SCI, 中科院一区). [[Paper]](https://www.sciencedirect.com/science/article/pii/S0957417424024114) [[Code]](https://github.com/AXNing/Artistic-style-text-detection)
 - [ACML'24] He J, Xue M* et al. Zero-LED: Zero-Reference Lighting Estimation Diffusion Model for Low-Light Image Enhancement. Asian Conference on Machine Learning, Hanoi, Vietnam, 2024  (CCF-C) [[Paper]](https://arxiv.org/pdf/2403.02879) 
 - [ICPR'24] Xie P, He J, Song C and Xue M*. A Novel Encoder-Decoder Network with Multi-domain Information Fusion for Video Deblurring. 27th International Conference on Pattern Recognition, Kolkata, India, 2024. (CCF-C) [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-78125-4_11) [[Code]](https://github.com/Paige-Norton/STFFNet)
 - [IEEE SPL] Xue M, He Y, He J, et al. DLDiff: Image Detail-guided Latent Diffusion Model for Low-Light Image Enhancement. IEEE Signal Processing Letters, 2024. (SCI, 中科院二区) [[Paper]](https://ieeexplore.ieee.org/document/10663248) [[Code]](https://github.com/Yuii666/DLDiff)
