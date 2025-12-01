@@ -30,6 +30,7 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 - Deep Learning
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉🎉  Three of our students won the second prize, and three won the third prize in the Huawei Cup of National Post-Graduate Mathematical Contest in Modeling. (华为杯研究生数学建模大赛)
 - *2025.10*: &nbsp;🎉🎉 One paper is accepted by Signal Processing (SCI,中科院二区,CCF-C).
 - *2025.10*: &nbsp;🎉🎉 Congratulations to Jinhong He, Shuaibin Fan and Aoxiang Ning are selected as candidates for the National Graduate Scholarship in 2025 (研究生国家奖学金).
 - *2025.09*: &nbsp;👥👥 Warmly welcome four new students to join us.
