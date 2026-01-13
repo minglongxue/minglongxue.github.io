@@ -30,6 +30,7 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 - Deep Learning
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 One paper is accepted by Pattern Recognition Letters (SCI,中科院三区,CCF-C).
 - *2025.11*: &nbsp;🎉🎉  Two of our students won the second prize, and Four won the third prize in the Huawei Cup of National Post-Graduate Mathematical Contest in Modeling. (华为杯研究生数学建模大赛)
 - *2025.10*: &nbsp;🎉🎉 One paper is accepted by Signal Processing (SCI,中科院二区,CCF-C).
 - *2025.10*: &nbsp;🎉🎉 Congratulations to Jinhong He, Shuaibin Fan and Aoxiang Ning are selected as candidates for the National Graduate Scholarship in 2025 (研究生国家奖学金).
@@ -127,6 +128,8 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 
 # 📝 Publications 
 (Journal & Conference Papers)
+**2026**
+- [PRL]  Xue M, A. Ning et al. Nighttime Flare Removal via Frequency Decoupling, Pattern Recognition Letters, 2025. (to accept, SCI, 中科院三区). 
 
 **2025**
 - [SP]  Yan W, Xue M*, Shivakumara P, et al. DFCCNet: Unified Dual-domain Fusion and Color-aware Residual Correction for Robust Single Image Dehazing [J]. Signal Processing,110360,2025. (SCI, 中科院二区) [[Paper]](https://doi.org/10.1016/j.sigpro.2025.110360) [[Code]]( https://github.com/wenchao-tech/DFCCNet-main)
