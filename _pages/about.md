@@ -129,7 +129,7 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 # 📝 Publications 
 (Journal & Conference Papers)
 **2026**
-- [PRL]  Xue M, Ning A et al. Nighttime Flare Removal via Frequency Decoupling, Pattern Recognition Letters, 2025. (to accept, SCI, 中科院三区). 
+- [PRL]  Xue M, Ning A et al. Nighttime Flare Removal via Frequency Decoupling, Pattern Recognition Letters, 2025. (to accept, SCI, 中科院三区).[[Paper]](https://doi.org/10.1016/j.patrec.2026.01.012) 
 
 **2025**
 - [SP]  Yan W, Xue M*, Shivakumara P, et al. DFCCNet: Unified Dual-domain Fusion and Color-aware Residual Correction for Robust Single Image Dehazing [J]. Signal Processing,110360,2025. (SCI, 中科院二区) [[Paper]](https://doi.org/10.1016/j.sigpro.2025.110360) [[Code]]( https://github.com/wenchao-tech/DFCCNet-main)
