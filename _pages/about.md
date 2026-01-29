@@ -32,7 +32,7 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 # 🔥 News
 - *2026.01*: &nbsp;🎉🎉 One paper is accepted by Pattern Recognition Letters (SCI,中科院三区,CCF-C).
 - *2025.11*: &nbsp;🎉🎉  Two of our students won the second prize, and Four won the third prize in the Huawei Cup of National Post-Graduate Mathematical Contest in Modeling. (华为杯研究生数学建模大赛)
-  <p align = "center">    
+<p align = "center">    
 <img  src="/images/huawei2025.png" width="75%" />
 </p>
 
