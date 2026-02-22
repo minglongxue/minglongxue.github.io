@@ -30,8 +30,10 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 - Deep Learning
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉🎉 One paper is accepted by Pattern Recognition Letters (SCI,中科院三区,CCF-C).
-- *2025.11*: &nbsp;🎉🎉  Two of our students won the second prize, and Four won the third prize in the Huawei Cup of National Post-Graduate Mathematical Contest in Modeling. (华为杯研究生数学建模大赛)
+- *2026.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2026 (CCF-A).
+- *2026.02*: &nbsp;🎉🎉 One paper is accepted by The Visual Computer (SCI,中科院三区, CCF-C).
+- *2026.01*: &nbsp;🎉🎉 One paper is accepted by Pattern Recognition Letters (SCI,中科院三区, CCF-C).
+- *2025.11*: &nbsp;🎉🎉  Two of our students won the second prize, and our won the third prize in the Huawei Cup of National Post-Graduate Mathematical Contest in Modeling. (华为杯研究生数学建模大赛)
 <p align = "center">    
 <img  src="/images/huawei2025.png" width="75%" />
 </p>
@@ -133,7 +135,9 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 # 📝 Publications 
 (Journal & Conference Papers)
 **2026**
-- [PRL]  Xue M, Ning A et al. Nighttime Flare Removal via Frequency Decoupling, Pattern Recognition Letters, 2025. (to accept, SCI, 中科院三区).[[Paper]](https://doi.org/10.1016/j.patrec.2026.01.012) 
+- [CVPR 2026]  Ning A, Yu K, Xue M*, et al. Language-Guided One-Step Diffusion Model for Nighttime Flare Removal, Proceedings of the IEEE/CVF International Conference on Computer Vision and Pattern Recognition, 2026. (to accept, CCF-A) 
+- [VC] Xue M, Chen K, et al. Dynamic Nonlinear Networks for Adaptive Low-Light Image Enhancement, The Visual Computer,2026. (to accept, SCI, 中科院三区).
+- [PRL] Xue M, Ning A et al. Nighttime Flare Removal via Frequency Decoupling, Pattern Recognition Letters, 2026. (to accept, SCI, 中科院三区).[[Paper]](https://doi.org/10.1016/j.patrec.2026.01.012) 
 
 **2025**
 - [SP]  Yan W, Xue M*, Shivakumara P, et al. DFCCNet: Unified Dual-domain Fusion and Color-aware Residual Correction for Robust Single Image Dehazing [J]. Signal Processing,110360,2025. (SCI, 中科院二区) [[Paper]](https://doi.org/10.1016/j.sigpro.2025.110360) [[Code]]( https://github.com/wenchao-tech/DFCCNet-main)
