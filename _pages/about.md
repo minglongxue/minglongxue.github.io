@@ -30,6 +30,7 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 - Deep Learning
 
 # 🔥 News
+
 - *2026.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2026 (CCF-A).
 - *2026.02*: &nbsp;🎉🎉 One paper is accepted by The Visual Computer (SCI,中科院三区, CCF-C).
 - *2026.01*: &nbsp;🎉🎉 One paper is accepted by Pattern Recognition Letters (SCI,中科院三区, CCF-C).
@@ -134,6 +135,7 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 
 # 📝 Publications 
 (Journal & Conference Papers)
+
 **2026**
 - [CVPR 2026]  Ning A, Yu K, Xue M*, et al. Language-Guided One-Step Diffusion Model for Nighttime Flare Removal, Proceedings of the IEEE/CVF International Conference on Computer Vision and Pattern Recognition, 2026. (to accept, CCF-A) 
 - [VC] Xue M, Chen K, et al. Dynamic Nonlinear Networks for Adaptive Low-Light Image Enhancement, The Visual Computer,2026. (to accept, SCI, 中科院三区).
