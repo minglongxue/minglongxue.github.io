@@ -31,6 +31,7 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 
 # 🔥 News
 
+- *2026.03*: &nbsp;🎉🎉 One paper is accepted by ACM Transactions on Multimedia Computing Communications and Applications (SCI,中科院三区,CCF-B).
 - *2026.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2026 (CCF-A).
 - *2026.02*: &nbsp;🎉🎉 One paper is accepted by The Visual Computer (SCI,中科院三区, CCF-C).
 - *2026.01*: &nbsp;🎉🎉 One paper is accepted by Pattern Recognition Letters (SCI,中科院三区, CCF-C).
