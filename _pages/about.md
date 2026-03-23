@@ -143,6 +143,7 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 (Journal & Conference Papers)
 
 **2026**
+- [The Visual Computer] Xue M, Shang X, He J and Zhong S. Wavelet Transform-Guided Transformer Light Transfer Network for Zero-Shot Low-Light Image Enhancement, The Visual Computer, 2026. (SCI, 中科院三区).[[Paper]](https://link.springer.com/article/10.1007/s00371-025-03890-0) [[Code]](https://github.com/KKKKevin0401/DEFE)
 - [ACM TOMM] Xue M, Fan S, Yan W and Zhou M. Unsupervised Dehazing of Real-World Images with Frequency-Aware Learning [J]. ACM Transactions on Multimedia Computing Communications and Applications, 2026 (to accept, SCI, CCF-B). [[Paper]]() [[Code]]( https://github.com/Fan-pixel/FAL-Net)
 - [CVPR 2026]  Ning A, Yu K, Xue M*, et al. Language-Guided One-Step Diffusion Model for Nighttime Flare Removal, Proceedings of the IEEE/CVF International Conference on Computer Vision and Pattern Recognition, 2026. (to accept, CCF-A) 
 - [The Visual Computer] Xue M, Chen K, et al. Dynamic Nonlinear Networks for Adaptive Low-Light Image Enhancement, The Visual Computer,2026. (SCI, 中科院三区).[[Paper]](https://link.springer.com/article/10.1007/s00371-025-03890-0) [[Code]](https://github.com/KKKKevin0401/DEFE)
