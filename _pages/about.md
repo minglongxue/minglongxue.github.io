@@ -30,6 +30,7 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 - Deep Learning
 
 # 🔥 News
+- *2026.03*: &nbsp;🎉🎉 One paper is accepted by The Visual Computer (SCI,中科院三区,CCF-C).
 - *2026.03*: &nbsp;🥂🥂 Spring group hiking.
 <p align = "center">    
 <img  src="/images/tuanjian2026.jpg" width="50%" />
