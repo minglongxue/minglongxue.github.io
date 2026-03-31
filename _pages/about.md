@@ -47,6 +47,10 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 
 - *2025.10*: &nbsp;🎉🎉 One paper is accepted by Signal Processing (SCI,中科院二区,CCF-C).
 - *2025.10*: &nbsp;🎉🎉 Congratulations to Jinhong He, Shuaibin Fan and Aoxiang Ning are selected as candidates for the National Graduate Scholarship in 2025 (研究生国家奖学金).
+ <p align = "center">    
+<img  src="/images/guojiang2026.png" width="75%" />
+</p>
+
 - *2025.09*: &nbsp;👥👥 Warmly welcome four new students to join us.
 <p align = "center">    
 <img  src="/images/2025heying.jpg" width="50%" />
