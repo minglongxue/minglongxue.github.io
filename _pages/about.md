@@ -48,7 +48,7 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 - *2025.10*: &nbsp;🎉🎉 One paper is accepted by Signal Processing (SCI,中科院二区,CCF-C).
 - *2025.10*: &nbsp;🎉🎉 Congratulations to Jinhong He, Shuaibin Fan and Aoxiang Ning are selected as candidates for the National Graduate Scholarship in 2025 (研究生国家奖学金).
  <p align = "center">    
-<img  src="/images/guojiang2025.jpg" width="75%" />
+<img  src="/images/guojiang2025.jpg" width="100%" />
 </p>
 
 - *2025.09*: &nbsp;👥👥 Warmly welcome four new students to join us.
@@ -58,30 +58,30 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 
 - *2025.08*: &nbsp;🎉🎉 One paper is accepted by ACM Transactions on Multimedia Computing Communications and Applications (SCI,中科院三区,CCF-B).
 - *2025.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2025 (CCF-A).
-- *2025.06*: &nbsp;🎉🎉 One paper is accepted by Pattern Recognition (SCI,中科院一区,CCF-B).
+- *2025.06*: &nbsp;🎉🎉 One paper is accepted by Pattern Recognition (SCI,中科院一区, CCF-B).
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted by ACAIT 2025.
-- *2025.06*: &nbsp;🎉🎉 One paper is accepted by Pattern Recognition (SCI,中科院一区,CCF-B).
-- *2025.06*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Multimedia (SCI,中科院一区,CCF-B).
+- *2025.06*: &nbsp;🎉🎉 One paper is accepted by Pattern Recognition (SCI,中科院一区, CCF-B).
+- *2025.06*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Multimedia (SCI,中科院一区, CCF-B).
 - *2025.05*: &nbsp;🎉🎉 Congratulations to Yanyi He and Peiqi Xie for successfully passing their master's degree thesis defense!
 <p align = "center">    
 <img  src="/images/2025biye.jpg" width="50%" />
 </p>
 
 - *2025.04*: &nbsp;🎉🎉 One paper is accepted by IJCNN 2025 (CCF-C).
-- *2025.03*: &nbsp;🎉🎉 One paper is accepted by The Visual Computer (SCI,中科院三区,CCF-C).
+- *2025.03*: &nbsp;🎉🎉 One paper is accepted by The Visual Computer (SCI,中科院三区, CCF-C).
 - *2025.03*: &nbsp;🥂🥂 Spring group hiking.
 <p align = "center">    
 <img  src="/images/2025spring.jpg" width="50%" />
 </p>
 
-- *2025.02*: &nbsp;🎉🎉 Two papers are accepted by IEEE Signal Processing Letters (SCI,中科院二区,CCF-C).
-- *2025.01*: &nbsp;🎉🎉 One paper is accepted by Pattern Recognition Letters (SCI,中科院三区,CCF-C).
+- *2025.02*: &nbsp;🎉🎉 Two papers are accepted by IEEE Signal Processing Letters (SCI,中科院二区, CCF-C).
+- *2025.01*: &nbsp;🎉🎉 One paper is accepted by Pattern Recognition Letters (SCI,中科院三区, CCF-C).
 - *2025.01*: &nbsp;🧑‍💻🧑‍💻 Jianfeng Fu and Kaiwen Chen conducted a study tour at the Royal Institute of Technology in Thailand.
 <p align = "center">    
 <img  src="/images/2025Thai.jpg" width="50%" />
 </p>
 
-- *2024.12*: &nbsp;🎉🎉 One paper is accepted by the International Journal of Pattern Recognition and Artificial Intelligence  (SCI,中科院四区,CCF-C).
+- *2024.12*: &nbsp;🎉🎉 One paper is accepted by the International Journal of Pattern Recognition and Artificial Intelligence  (SCI,中科院四区, CCF-C).
 - *2024.12*: &nbsp;🧑‍💻🧑‍💻 Minglong Xue and Jinhong He attended ACML2024 in Hanoi, Vietnam.
 <p align = "center">    
 <img  src="/images/acml.jpg" width="50%" />
