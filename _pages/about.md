@@ -32,7 +32,7 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 # 🔥 News
 - *2026.05*: &nbsp;🎉🎉 Congratulations to Jinhong He for successfully passing his master's degree thesis defense!
 <p align = "center">    
-<img  src="/images/hjb.jpg" width="50%" />
+<img  src="/images/hjh.jpg" width="50%" />
 </p>
 - *2026.05*: &nbsp;🎉🎉 Congratulations to Shuaibin Fan for successfully passing his master's degree thesis defense!
 <p align = "center">    
