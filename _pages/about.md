@@ -46,13 +46,13 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 </p>
 
 - *2026.05*: &nbsp;🎉🎉 One paper is accepted by Neural Networks (SCI, CCF-B).
-- *2026.03*: &nbsp;🎉🎉 One paper is accepted by The Visual Computer (SCI,中科院三区,CCF-C).
+- *2026.03*: &nbsp;🎉🎉 One paper is accepted by The Visual Computer (SCI,中科院三区, CCF-C).
 - *2026.03*: &nbsp;🥂🥂 Spring group hiking.
 <p align = "center">    
 <img  src="/images/tuanjian2026.jpg" width="50%" />
 </p>
 
-- *2026.03*: &nbsp;🎉🎉 One paper is accepted by ACM Transactions on Multimedia Computing Communications and Applications (SCI,中科院三区,CCF-B).
+- *2026.03*: &nbsp;🎉🎉 One paper is accepted by ACM Transactions on Multimedia Computing Communications and Applications (SCI,中科院三区, CCF-B).
 - *2026.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2026 (CCF-A).
 - *2026.02*: &nbsp;🎉🎉 One paper is accepted by The Visual Computer (SCI,中科院三区, CCF-C).
 - *2026.01*: &nbsp;🎉🎉 One paper is accepted by Pattern Recognition Letters (SCI,中科院三区, CCF-C).
@@ -72,7 +72,7 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 <img  src="/images/2025heying.jpg" width="50%" />
 </p>
 
-- *2025.08*: &nbsp;🎉🎉 One paper is accepted by ACM Transactions on Multimedia Computing Communications and Applications (SCI,中科院三区,CCF-B).
+- *2025.08*: &nbsp;🎉🎉 One paper is accepted by ACM Transactions on Multimedia Computing Communications and Applications (SCI,中科院三区, CCF-B).
 - *2025.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2025 (CCF-A).
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted by Pattern Recognition (SCI,中科院一区, CCF-B).
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted by ACAIT 2025.
@@ -163,6 +163,7 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 (Journal & Conference Papers)
 
 **2026**
+- [Neural Networks]  Ning A, Xue M, Zhong S, et al. Better Utilization of Illumination Prior via KANs for Nighttime Flare Removal[J]. Neural Networks, 2026: 109138. (SCI, CCF-B). [[Paper]](https://www.sciencedirect.com/science/article/pii/S089360802600599X) [[Code]](https://github.com/AXNing/Illumination-Guided-Frequency-Adaptive-Network)  
 - [The Visual Computer] Xue M, Shang X, He J and Zhong S. Wavelet Transform-Guided Transformer Light Transfer Network for Zero-Shot Low-Light Image Enhancement, The Visual Computer, 2026. (SCI, 中科院三区).
 - [ACM TOMM] Xue M, Fan S, Yan W and Zhou M. Unsupervised Dehazing of Real-World Images with Frequency-Aware Learning [J]. ACM Transactions on Multimedia Computing Communications and Applications, 2026 (to accept, SCI, CCF-B). [[Paper]]() [[Code]]( https://github.com/Fan-pixel/FAL-Net)
 - [CVPR 2026]  Ning A, Yu K, Xue M*, et al. Language-Guided One-Step Diffusion Model for Nighttime Flare Removal, Proceedings of the IEEE/CVF International Conference on Computer Vision and Pattern Recognition, 2026. (to accept, CCF-A) 
