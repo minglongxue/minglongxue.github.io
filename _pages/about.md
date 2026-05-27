@@ -32,10 +32,10 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 # 🔥 News
 - *2026.05*: &nbsp;🎉🎉 We joyfully come together to celebrate the graduation of the Class of 2023 postgraduates. (一切过往皆为序章, 祝大家鹏程万里未来可期!)
 
-  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
-  <img src="/images/biye2026.jpg" style="width: 50%;">
-  <img src="/images/biye2026-1.jpg" style="width: 50%;">
-</div
+ <p align = "center">    
+  <img src="/images/biye2026.jpg" width="50%">
+  <img src="/images/biye2026-1.jpg" width="50%">
+ </p>
   
 - *2026.05*: &nbsp;🎉🎉 Congratulations to Jinhong He on passing his master's thesis defense. He will pursue his Ph.D. degree at Nanjing University (南京大学) this September.
 <p align = "center">    
