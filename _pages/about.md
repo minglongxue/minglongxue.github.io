@@ -30,15 +30,12 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 - Deep Learning
 
 # 🔥 News
-- *2026.05*: &nbsp;🎉🎉 Congratulations to Jinhong He for successfully passing his master's degree thesis defense!
-<p align = "left">    
+- *2026.05*: &nbsp;🎉🎉 Congratulations to He Jinhong on passing his master's thesis defense. He will pursue his Ph.D. at Nanjing University (南京大学) this September.
+<p align = "center">    
 <img  src="/images/hjh.jpg" width="50%" />
 </p>
-<p align = "right">    
-<img  src="/images/fsb.jpg" width="50%" />
-</p>
 
-- *2026.05*: &nbsp;🎉🎉 Congratulations to Shuaibin Fan for successfully passing his master's degree thesis defense!
+- *2026.05*: &nbsp;🎉🎉 Congratulations to Fan Shuaibin on passing his master's thesis defense. He will pursue his Ph.D. at Southeast University (东南大学) this September.
 <p align = "center">    
 <img  src="/images/fsb.jpg" width="50%" />
 </p>
@@ -47,6 +44,7 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 <p align = "center">    
 <img  src="/images/nax.jpg" width="50%" />
 </p>
+
 - *2026.05*: &nbsp;🎉🎉 One paper is accepted by Neural Networks (SCI, CCF-B).
 - *2026.03*: &nbsp;🎉🎉 One paper is accepted by The Visual Computer (SCI,中科院三区,CCF-C).
 - *2026.03*: &nbsp;🥂🥂 Spring group hiking.
