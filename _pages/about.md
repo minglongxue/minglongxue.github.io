@@ -30,12 +30,12 @@ I am currently a Lecturer in the College of Computer Science and Engineering at 
 - Deep Learning
 
 # 🔥 News
-- *2026.05*: &nbsp;🎉🎉 Congratulations to He Jinhong on passing his master's thesis defense. He will pursue his Ph.D. degree at Nanjing University (南京大学) this September.
+- *2026.05*: &nbsp;🎉🎉 Congratulations to Jinhong He on passing his master's thesis defense. He will pursue his Ph.D. degree at Nanjing University (南京大学) this September.
 <p align = "center">    
 <img  src="/images/hjh.jpg" width="50%" />
 </p>
 
-- *2026.05*: &nbsp;🎉🎉 Congratulations to Fan Shuaibin on passing his master's thesis defense. He will pursue his Ph.D. degree at Southeast University (东南大学) this September.
+- *2026.05*: &nbsp;🎉🎉 Congratulations to Shuaibin Fan on passing his master's thesis defense. He will pursue his Ph.D. degree at Southeast University (东南大学) this September.
 <p align = "center">    
 <img  src="/images/fsb.jpg" width="50%" />
 </p>
