@@ -252,5 +252,5 @@ Discussions or cooperations are warmly welcome. If you want to join my group, pl
 
 &nbsp;&nbsp;
 
-<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "f635707e78d44b81a9c136f2a75208e5"}'></script><!-- End Cloudflare Web Analytics -->
+<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "d20cea0c02e141e7bbe325bb3953a3e6"}'></script><!-- End Cloudflare Web Analytics -->
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=cz2U0XiXTAuHU-x5oZWV-10zvpztRcz-mPAccm2QIfg&cl=ffffff&w=a"></script>
