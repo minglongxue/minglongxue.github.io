@@ -27,3 +27,11 @@ body.dark .group-hero{background:var(--soft)}
 /* Preserve the complete aspect ratio of publication figures. */
 .pub-figure img{height:auto;max-height:none;object-fit:contain}
 
+.student-card{display:flex;align-items:flex-start;gap:16px;text-decoration:none;color:inherit;padding:20px;border:1px solid var(--line);border-radius:4px;background:var(--bg)}
+.student-card:hover{border-color:var(--blue);transform:translateY(-2px)}
+.student-card h3{font-size:18px;margin:0 0 8px}.student-card p{font-size:14px;margin:8px 0}.student-card .student-link{margin-top:12px;color:var(--blue);font-size:13px}
+.student-photo{width:86px;height:104px;object-fit:contain;flex-shrink:0;border-radius:4px;background:#e8edf2}
+.student-initials{display:flex;align-items:center;justify-content:center;font-size:28px;font-weight:600;color:#526b82}
+.student-detail{display:flex;gap:32px}.student-detail .student-photo{width:180px;height:220px}.student-detail dt{font-weight:600;margin-top:18px}.student-detail dd{margin:4px 0 0}
+@media(max-width:560px){.student-detail{flex-direction:column}.student-card{gap:12px}.student-photo{width:70px;height:90px}}
+
