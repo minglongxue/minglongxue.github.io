@@ -80,3 +80,8 @@ footer{padding:30px 0}footer small{margin-top:15px}
 @media(min-width:761px) and (max-width:1050px){.logo-brand{flex-basis:170px}.navlinks{gap:11px}.navlinks a{font-size:14px}.nav{gap:9px}}
 @media(max-width:760px){.logo-brand{max-width:calc(100% - 160px)}.nav{gap:8px}}
 
+/* Larger type for comfortable reading in the compact layout. */
+body{font-size:18px}.intro{font-size:20px}.pub{font-size:18px;line-height:1.85}.pub .pub-year{font-size:14px}.news-item h3{font-size:20px}.section-caption{font-size:15px}.student-card h3{font-size:20px}.student span{font-size:14px}.navlinks a{font-size:16px}
+@media(max-width:1050px) and (min-width:761px){.navlinks a{font-size:14px}}
+@media(max-width:760px){body{font-size:17px}.intro{font-size:18px}.pub{font-size:17px}.news-item h3{font-size:18px}.section-caption{font-size:14px}}
+
