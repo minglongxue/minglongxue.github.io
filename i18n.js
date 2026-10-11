@@ -1,6 +1,7 @@
 let siteLanguage='en';try{siteLanguage=localStorage.getItem('siteLanguage')==='zh'?'zh':'en'}catch{}
 const languageOriginals=new WeakMap();
 const ZH={
+ 'Congratulations to Jinhong He, Shuaibin Fan and Aoxiang Ning are selected as candidates for the National Graduate Scholarship in 2025 (研究生国家奖学金).':'祝贺 Jinhong He、Shuaibin Fan 与 Aoxiang Ning 入选 2025 年研究生国家奖学金候选名单。',
  'Home':'首页','News':'新闻','People':'成员','Publications':'论文','Teaching':'教学','Contact':'联系',
  'Visual Perception & Understanding':'视觉感知与理解','CHONGQING UNIVERSITY OF TECHNOLOGY':'重庆理工大学',
  'Research, learning, and moments together.':'科研、学习与共同成长。','Meet the team →':'认识我们的团队 →',
@@ -30,7 +31,7 @@ const ZH={
  'Congratulations to Shuaibin Fan on passing his master’s thesis defense. He will pursue his Ph.D. degree at Southeast University (东南大学) this September.':'祝贺 Shuaibin Fan 通过硕士论文答辩，将于今年九月赴东南大学攻读博士学位。',
  'Congratulations to Aoxiang Ning for successfully passing his master’s degree thesis defense!':'祝贺 Aoxiang Ning 顺利通过硕士学位论文答辩！',
  'Congratulations to Yanyi He and Peiqi Xie for successfully passing their master’s degree thesis defense!':'祝贺 Yanyi He 与 Peiqi Xie 顺利通过硕士学位论文答辩！',
- 'Congratulations to Wenchao Yan and Kaiwen Chen on being selected as candidates for the National Graduate Scholarship in 2025 (研究生国家奖学金).':'祝贺 Wenchao Yan 与 Kaiwen Chen 入选 2025 年研究生国家奖学金候选名单。',
+ 'Congratulations to Wenchao Yan and Kaiwen Chen on being selected as candidates for the National Graduate Scholarship in 2026 (研究生国家奖学金).':'祝贺 Wenchao Yan 与 Kaiwen Chen 入选 2026 年研究生国家奖学金候选名单。',
  'Yanyi He and Shuaibin Fan are selected as candidates for the National Graduate Scholarship in 2024 (研究生国家奖学金).':'Yanyi He 与 Shuaibin Fan 入选 2024 年研究生国家奖学金候选名单。',
  'Jianfeng Fu and Kaiwen Chen conducted a study tour at the Royal Institute of Technology in Thailand.':'Jianfeng Fu 与 Kaiwen Chen 赴泰国皇家理工学院开展研学交流。','Peiqi Xie conducted a study tour at the Royal Institute of Technology in Thailand.':'Peiqi Xie 赴泰国皇家理工学院开展研学交流。',
  'Minglong Xue and Jinhong He attended ACML2024 in Hanoi, Vietnam.':'薛明龙与 Jinhong He 赴越南河内参加 ACML 2024。','Minglong Xue and Jinhong He attended ACAIT2024 in Fuzhou, China.':'薛明龙与 Jinhong He 在福州参加 ACAIT 2024。','Zhengyang He attended ICIP2023 in Kuala Lumpur, Malaysia.':'Zhengyang He 赴马来西亚吉隆坡参加 ICIP 2023。',
