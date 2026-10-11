@@ -35,3 +35,6 @@ body.dark .group-hero{background:var(--soft)}
 .student-detail{display:flex;gap:32px}.student-detail .student-photo{width:180px;height:220px}.student-detail dt{font-weight:600;margin-top:18px}.student-detail dd{margin:4px 0 0}
 @media(max-width:560px){.student-detail{flex-direction:column}.student-card{gap:12px}.student-photo{width:70px;height:90px}}
 
+.group-logo{display:block;width:min(640px,100%);height:auto;margin:0 auto 18px;padding:12px 18px;background:#fff;border-radius:6px}
+@media(max-width:560px){.group-logo{padding:8px 10px;margin-bottom:14px}}
+
