@@ -38,3 +38,8 @@ body.dark .group-hero{background:var(--soft)}
 .group-logo{display:block;width:min(640px,100%);height:auto;margin:0 auto 18px;padding:12px 18px;background:#fff;border-radius:6px}
 @media(max-width:560px){.group-logo{padding:8px 10px;margin-bottom:14px}}
 
+.logo-brand{display:flex;align-items:center;flex-shrink:0;background:#fff;border-radius:3px;padding:3px 6px}.logo-brand img{display:block;width:280px;height:auto}.nav{gap:16px}
+@media(max-width:1050px){.logo-brand img{width:240px}.navlinks{gap:16px}}
+@media(max-width:760px){.logo-brand img{width:230px}}
+@media(max-width:400px){.logo-brand img{width:190px}.nav{gap:10px}}
+
