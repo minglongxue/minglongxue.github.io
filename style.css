@@ -54,3 +54,25 @@ body.dark .group-hero{background:var(--soft)}
 @media(max-width:760px){.logo-brand{flex:0 1 220px;max-width:calc(100% - 118px);max-height:52px}.logo-brand img{max-height:50px}.group-hero>.wrap{padding-left:10px;padding-right:10px}.group-gallery{min-height:260px;gap:5px}.group-photo{height:175px}.group-photo.center{height:260px;flex:2.5 1 0}}
 @media(max-width:400px){.logo-brand{flex-basis:180px}.nav{gap:8px}}
 
+/* Denser editorial layout with more prominent research and group imagery. */
+.wrap{max-width:1320px}
+.section{padding:44px 0}.split{grid-template-columns:205px minmax(0,1fr);gap:32px}
+.section h2{font-size:30px;margin-bottom:14px}.section-caption{font-size:13px}
+.section p{margin-bottom:15px}.intro{font-size:18px;line-height:1.75}
+.hero.group-hero{padding:22px 0 20px}.group-heading h1{font-size:30px;margin:8px 0}.group-heading p{font-size:16px;margin-bottom:16px}
+.group-hero>.wrap{max-width:1680px;padding-left:20px;padding-right:20px}
+.group-gallery{min-height:450px;gap:10px}.group-photo{height:335px;padding:6px}.group-photo.center{height:450px;flex:2.5 1 0}
+.gallery-controls{margin-top:12px}.group-hero>.wrap>.button{margin-top:8px}
+.group-logo{width:min(450px,100%);margin-bottom:16px;padding:0}
+.news-item{grid-template-columns:minmax(0,1fr) 290px;gap:22px;padding-bottom:19px;margin-bottom:19px;align-items:center}
+.news-item img{width:100%;height:auto;max-height:230px;object-fit:contain;background:var(--soft)}
+.news-item h3{font-size:18px}.news-gallery{gap:12px}.news-gallery img{max-height:520px}
+.pub.has-figure{grid-template-columns:300px minmax(0,1fr);gap:22px}.pub{padding-bottom:20px;margin-bottom:20px}
+.pub-figure{padding:5px}.pub-figure img{height:auto;max-height:none}.pub-figure span{margin-top:4px}
+.title-banner{padding:30px 0}.title-banner h1{font-size:36px}.profile{margin-bottom:15px;gap:26px}
+.students{gap:14px;grid-template-columns:repeat(3,minmax(0,1fr))}.student-card{padding:14px;gap:12px}.student-photo{width:70px;height:85px}
+footer{padding:30px 0}footer small{margin-top:15px}
+@media(min-width:761px) and (max-width:1050px){.split{grid-template-columns:170px minmax(0,1fr);gap:24px}.pub.has-figure{grid-template-columns:240px minmax(0,1fr)}.news-item{grid-template-columns:minmax(0,1fr) 230px}.students{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:760px){.section{padding:30px 0}.split{grid-template-columns:1fr;gap:12px}.section h2{font-size:27px;margin-bottom:8px}.section-caption{margin-bottom:8px}.hero.group-hero{padding:18px 0}.group-heading h1{font-size:24px}.group-gallery{min-height:310px;gap:4px}.group-photo{height:205px;padding:3px}.group-photo.center{height:310px;flex:2.8 1 0}.group-hero>.wrap{padding-left:8px;padding-right:8px}.pub.has-figure{grid-template-columns:1fr;gap:12px}.pub-figure{width:100%;max-width:520px;margin:auto}.news-item{grid-template-columns:minmax(0,1fr) 180px;gap:14px}.news-item h3{font-size:16px}.title-banner{padding:24px 0}.students{grid-template-columns:repeat(2,minmax(0,1fr))}.student-card{padding:12px;flex-direction:column}.intro{font-size:17px}}
+@media(max-width:440px){.news-item{grid-template-columns:1fr}.news-item img{max-height:300px}.students{gap:10px}.group-photo span{font-size:7px}}
+
