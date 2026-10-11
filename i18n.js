@@ -1,6 +1,7 @@
 let siteLanguage='en';try{siteLanguage=localStorage.getItem('siteLanguage')==='zh'?'zh':'en'}catch{}
 const languageOriginals=new WeakMap();
 const ZH={
+ 'Published online':'在线发表','Issue publication':'卷期出版',
  'Congratulations to Jinhong He, Shuaibin Fan and Aoxiang Ning are selected as candidates for the National Graduate Scholarship in 2025 (研究生国家奖学金).':'祝贺 Jinhong He、Shuaibin Fan 与 Aoxiang Ning 入选 2025 年研究生国家奖学金候选名单。',
  'Home':'首页','News':'新闻','People':'成员','Publications':'论文','Teaching':'教学','Contact':'联系',
  'Visual Perception & Understanding':'视觉感知与理解','CHONGQING UNIVERSITY OF TECHNOLOGY':'重庆理工大学',
@@ -40,5 +41,5 @@ const ZH={
  'Five of our students won the third prize in the Huawei Cup of National Post-Graduate Mathematical Contest in Modeling. (华为杯研究生数学建模大赛)':'五位同学获得华为杯全国研究生数学建模竞赛三等奖。'
 };
 function translateText(text){const t=text.trim();if(ZH[t])return ZH[t];if(t.startsWith('One paper is accepted by '))return '一篇论文被 '+t.slice(25).replace(/^the /,'')+' 接收。';if(t.startsWith('Two papers are accepted by '))return '两篇论文被 '+t.slice(27)+' 接收。';return text}
-function applyLanguage(){document.documentElement.lang=siteLanguage==='zh'?'zh-CN':'en';document.querySelector('.language-toggle').textContent=siteLanguage==='zh'?'EN':'中文';const walker=document.createTreeWalker(document.body,NodeFilter.SHOW_TEXT);let node;while(node=walker.nextNode()){if(node.parentElement.closest('script,style,.language-toggle,.pub-details'))continue;if(!languageOriginals.has(node))languageOriginals.set(node,node.textContent);const original=languageOriginals.get(node);node.textContent=siteLanguage==='zh'?translateText(original):original}const q=document.querySelector('#pub-query');if(q)q.placeholder=siteLanguage==='zh'?'搜索论文…':'Search publications…';document.querySelector('#query').placeholder=siteLanguage==='zh'?'搜索扩散模型、低光照或姓名…':'Try diffusion, low-light, or a name…'}
+function applyLanguage(){document.documentElement.lang=siteLanguage==='zh'?'zh-CN':'en';document.querySelector('.language-toggle').textContent=siteLanguage==='zh'?'EN':'中文';const walker=document.createTreeWalker(document.body,NodeFilter.SHOW_TEXT);let node;while(node=walker.nextNode()){if(node.parentElement.closest('script,style,.language-toggle')||(node.parentElement.closest('.pub-details')&&!node.parentElement.closest('.pub-year')))continue;if(!languageOriginals.has(node))languageOriginals.set(node,node.textContent);const original=languageOriginals.get(node);node.textContent=siteLanguage==='zh'?translateText(original):original}const q=document.querySelector('#pub-query');if(q)q.placeholder=siteLanguage==='zh'?'搜索论文…':'Search publications…';document.querySelector('#query').placeholder=siteLanguage==='zh'?'搜索扩散模型、低光照或姓名…':'Try diffusion, low-light, or a name…'}
 
