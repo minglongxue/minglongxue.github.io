@@ -23,3 +23,7 @@
 body.dark .group-hero{background:var(--soft)}
 @media(max-width:760px){.hero.group-hero{padding:25px 0}.group-heading h1{font-size:28px}.group-heading p{font-size:15px}.group-gallery{gap:5px;min-height:190px}.group-photo{height:130px;padding:3px}.group-photo.center{height:190px;flex:2.2 1 0}.group-photo span{font-size:8px;margin-top:5px}.group-photo img{height:calc(100% - 30px)}.group-hero .wrap{padding:0 10px}}
 @media(prefers-reduced-motion:reduce){.group-photo{transition:none}}
+
+/* Preserve the complete aspect ratio of publication figures. */
+.pub-figure img{height:auto;max-height:none;object-fit:contain}
+
