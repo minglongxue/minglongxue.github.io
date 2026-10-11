@@ -43,3 +43,14 @@ body.dark .group-hero{background:var(--soft)}
 @media(max-width:760px){.logo-brand img{width:230px}}
 @media(max-width:400px){.logo-brand img{width:190px}.nav{gap:10px}}
 
+/* Fit the logo to the navigation and enlarge complete group photographs. */
+.logo-brand{min-width:0;flex:0 1 245px;padding:0 4px;max-height:58px;overflow:hidden}
+.logo-brand img{width:100%;max-width:237px;height:auto;max-height:56px;object-fit:contain}
+.navlinks{flex-shrink:0}.nav>.search-toggle,.nav>.theme,.nav>.menu{flex-shrink:0}
+.group-hero>.wrap{max-width:1500px;padding-left:24px;padding-right:24px}
+.group-gallery{min-height:380px;gap:12px}.group-photo{height:285px}.group-photo.center{height:380px;flex:2.3 1 0}
+.group-logo{width:min(560px,100%);margin:0 0 24px}
+@media(min-width:761px) and (max-width:950px){.logo-brand{flex-basis:180px}.navlinks{gap:12px}.navlinks a{font-size:14px}.nav{gap:12px}}
+@media(max-width:760px){.logo-brand{flex:0 1 220px;max-width:calc(100% - 118px);max-height:52px}.logo-brand img{max-height:50px}.group-hero>.wrap{padding-left:10px;padding-right:10px}.group-gallery{min-height:260px;gap:5px}.group-photo{height:175px}.group-photo.center{height:260px;flex:2.5 1 0}}
+@media(max-width:400px){.logo-brand{flex-basis:180px}.nav{gap:8px}}
+
