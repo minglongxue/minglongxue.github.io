@@ -88,3 +88,21 @@ body{font-size:18px}.intro{font-size:20px}.pub{font-size:18px;line-height:1.85}.
 /* Separate citation titles from bilingual abstract overviews. */
 .pub-title{font-weight:700;color:#174b73}.pub-abstract{margin-top:14px;padding:12px 16px;background:var(--soft);border-left:3px solid #739aa8;border-radius:0 4px 4px 0;color:#586574;font-size:16px;line-height:1.8}.pub-abstract p{margin:5px 0 0}.abstract-label{display:block;font-size:13px;font-weight:600;letter-spacing:.03em;color:#426f7f}body.dark .pub-title{color:#a8d5ff}body.dark .pub-abstract{color:#c1cad5}body.dark .abstract-label{color:#96c6d3}
 @media(max-width:760px){.pub-abstract{font-size:15px;padding:10px 12px}}
+
+/* Wide publication reading area and larger member portraits. */
+body[data-page="publications"] .section .split,body[data-page="people"] .section:has(.students) .split{grid-template-columns:minmax(0,1fr);gap:18px}
+body[data-page="publications"] .section .split>div:first-child{display:flex;align-items:baseline;gap:22px;flex-wrap:wrap}
+body[data-page="publications"] .section h2{margin-bottom:0}
+body[data-page="publications"] .pub.has-figure{grid-template-columns:minmax(280px,38%) minmax(0,1fr);gap:28px;align-items:start}
+body[data-page="publications"] .pub{padding:26px 0;margin:0;border-bottom:1px solid var(--line)}
+body[data-page="publications"] .pub-figure{width:100%;max-width:none;margin:0;padding:10px;background:var(--bg);border-radius:8px}
+body[data-page="publications"] .pub-figure img{width:100%;height:auto;object-fit:contain}
+.student-card{padding:18px;gap:16px;border-radius:8px;transition:border-color .2s,transform .2s;min-width:0}
+.student-card>div{min-width:0}.student-card h3{font-size:20px;overflow-wrap:anywhere}.student-card p{line-height:1.65}
+.student-card .student-photo{width:110px;height:140px;object-fit:contain;border-radius:6px;background:var(--soft)}
+.student-card .student-initials{display:flex;align-items:center;justify-content:center;font-size:30px}
+.student-detail .student-photo{width:220px;height:280px;object-fit:contain;border-radius:8px}
+.student-bio{line-height:1.85;max-width:760px}
+@media(min-width:761px) and (max-width:1050px){.students{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:760px){body[data-page="publications"] .pub.has-figure{grid-template-columns:minmax(0,1fr);gap:18px}body[data-page="publications"] .pub-figure{max-width:600px;margin:auto}.student-card{flex-direction:column;padding:16px}.student-card .student-photo{width:110px;height:140px}.student-detail .student-photo{width:180px;height:230px}}
+@media(max-width:400px){.students{grid-template-columns:minmax(0,1fr)}.student-card{flex-direction:row}.student-card .student-photo{width:100px;height:128px}}
