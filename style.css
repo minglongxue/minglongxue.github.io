@@ -143,3 +143,15 @@ footer{border-top:1px solid var(--line);background:var(--soft);color:var(--muted
 @media(prefers-reduced-motion:reduce){.student-card{transition:none}.student-card:hover{transform:none}}
 
 .student-cohort{margin-bottom:28px}.student-cohort:last-child{margin-bottom:0}.section .cohort-heading{font-size:18px;font-weight:650;color:var(--accent);border-bottom:1px solid var(--line);padding-bottom:10px;margin:0 0 16px}.student-cohort .students{margin:0}
+
+/* Five photographs on desktop; one readable photograph on mobile. */
+.group-gallery{gap:12px;min-height:470px}
+.group-photo{height:320px;background:var(--bg);color:var(--muted);border-color:var(--line);border-radius:var(--radius);padding:8px;opacity:.62;transition:height .35s,flex .35s,opacity .35s}
+.group-photo[data-distance="2"]{opacity:.4}
+.group-photo img{object-fit:contain;filter:saturate(.65);height:calc(100% - 46px);min-height:0}
+.group-photo span{display:block;flex-shrink:0;min-height:32px;margin-top:10px;font-size:12px;line-height:1.4;color:var(--muted)}
+.group-photo.center{flex:3.2 1 0;height:470px;opacity:1;border-color:var(--accent);box-shadow:0 6px 20px #173b5614}
+.group-photo.center img{filter:none}.group-photo.center span{color:var(--heading);font-size:14px;font-weight:600}
+.group-photo:hover,.group-photo:focus-visible{opacity:1}
+@media(max-width:760px){.group-gallery{min-height:0;display:block;overflow:hidden;margin:0 6px}.group-photo:not(.center){display:none}.group-photo.center{display:flex;width:100%;height:clamp(300px,100vw,520px);margin:0;padding:10px;box-shadow:none}.group-photo.center img{height:calc(100% - 46px);width:100%;object-fit:contain}.group-photo.center span{font-size:14px;line-height:1.4;min-height:32px}.group-hero>.wrap{padding-left:12px;padding-right:12px}}
+@media(prefers-reduced-motion:reduce){.group-photo{transition:none}}
