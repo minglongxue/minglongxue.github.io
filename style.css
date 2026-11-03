@@ -141,3 +141,5 @@ a:hover{ text-underline-offset:4px }
 footer{border-top:1px solid var(--line);background:var(--soft);color:var(--muted)}
 @media(max-width:760px){.section{padding:28px 0}.section h2{font-size:26px}.title-banner{padding:24px 0}.title-banner h1{font-size:30px}.news-item h3{font-size:18px}.filters{flex-wrap:wrap}.filters input{min-width:0;flex:1 1 180px}.filters select{max-width:100%}}
 @media(prefers-reduced-motion:reduce){.student-card{transition:none}.student-card:hover{transform:none}}
+
+.student-cohort{margin-bottom:28px}.student-cohort:last-child{margin-bottom:0}.section .cohort-heading{font-size:18px;font-weight:650;color:var(--accent);border-bottom:1px solid var(--line);padding-bottom:10px;margin:0 0 16px}.student-cohort .students{margin:0}
