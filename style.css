@@ -191,3 +191,18 @@ header{border-top:3px solid var(--heading)}
 .button,.language-toggle,.filters input,.filters select{border-radius:3px}
 footer{background:var(--bg);font-size:14px}
 @media(max-width:760px){.group-heading h1{font-size:30px}.title-banner h1{font-size:30px}.section h2{font-size:26px}.section{padding:26px 0}.intro{font-size:18px}.pub{font-size:16px}.group-heading{padding-bottom:16px;margin-bottom:18px}}
+
+/* Larger, uncropped research imagery and portraits. */
+body[data-page="publications"] .pub.has-figure{grid-template-columns:minmax(320px,44%) minmax(0,1fr);gap:28px}
+.pub-figure img{background:#fff}.pub-figure{cursor:zoom-in}
+.student-card{flex-direction:column;align-items:flex-start}.student-card .student-photo{width:140px;height:180px;background:var(--soft);object-fit:contain}
+.student-detail .student-photo{width:260px;height:330px;object-fit:contain}
+.news-item{grid-template-columns:minmax(0,1fr) 340px}.news-item img{max-height:300px;object-fit:contain}
+.news-gallery img{width:100%;max-height:680px;object-fit:contain}
+.group-photo.center{flex:3.7 1 0;height:500px}.group-gallery{min-height:500px}
+.image-viewer{border:1px solid var(--line);padding:48px 16px 16px;background:var(--bg);color:var(--text);max-width:96vw;max-height:96vh;margin:auto;overflow:auto}
+.image-viewer::backdrop{background:#07111de0}.image-viewer img{display:block;max-width:90vw;max-height:80vh;width:auto;height:auto;object-fit:contain;margin:auto;background:#fff}
+.image-viewer button{position:absolute;right:12px;top:8px;background:var(--bg);color:var(--text);border:1px solid var(--line);padding:3px 12px;font-size:22px}
+.image-viewer a{display:block;text-align:center;font-size:14px;margin-top:12px}
+@media(max-width:1050px){body[data-page="publications"] .pub.has-figure{grid-template-columns:minmax(0,1fr)}.pub-figure{max-width:700px;margin:auto}.news-item{grid-template-columns:minmax(0,1fr) 260px}}
+@media(max-width:760px){.group-gallery{min-height:0}.group-photo.center{height:clamp(320px,110vw,560px)}.student-card .student-photo{width:130px;height:165px}.student-detail .student-photo{width:220px;height:280px}.news-item{grid-template-columns:minmax(0,1fr)}.news-item img{max-height:380px}.image-viewer{padding:46px 8px 12px}.image-viewer img{max-width:90vw}}
