@@ -208,3 +208,5 @@ body[data-page="publications"] .pub.has-figure{grid-template-columns:minmax(320p
 @media(max-width:760px){.group-gallery{min-height:0}.group-photo.center{height:clamp(320px,110vw,560px)}.student-card .student-photo{width:130px;height:165px}.student-detail .student-photo{width:220px;height:280px}.news-item{grid-template-columns:minmax(0,1fr)}.news-item img{max-height:380px}.image-viewer{padding:46px 8px 12px}.image-viewer img{max-width:90vw}}
 
 .group-photo[hidden]{display:none!important}
+
+.dots button[hidden]{display:none!important}
