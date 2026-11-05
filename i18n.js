@@ -1,6 +1,7 @@
 let siteLanguage='en';try{siteLanguage=localStorage.getItem('siteLanguage')==='zh'?'zh':'en'}catch{}
 const languageOriginals=new WeakMap();
 const ZH={
+ "Campus marathon · May 2026":"校园马拉松 · 2026年5月",
  "Our group took part in the campus marathon in May 2026.":"课题组参加 2026 年 5 月校园马拉松。",
  'Published online':'在线发表','Issue publication':'卷期出版',
  'Congratulations to Jinhong He, Shuaibin Fan and Aoxiang Ning are selected as candidates for the National Graduate Scholarship in 2025 (研究生国家奖学金).':'祝贺 Jinhong He、Shuaibin Fan 与 Aoxiang Ning 入选 2025 年研究生国家奖学金候选名单。',
