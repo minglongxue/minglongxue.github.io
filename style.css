@@ -31,7 +31,6 @@ body.dark .group-hero{background:var(--soft)}
 .student-card:hover{border-color:var(--blue);transform:translateY(-2px)}
 .student-card h3{font-size:18px;margin:0 0 8px}.student-card p{font-size:14px;margin:8px 0}.student-card .student-link{margin-top:12px;color:var(--blue);font-size:13px}
 .student-photo{width:86px;height:104px;object-fit:contain;flex-shrink:0;border-radius:4px;background:#e8edf2}
-.student-initials{display:flex;align-items:center;justify-content:center;font-size:28px;font-weight:600;color:#526b82}
 .student-detail{display:flex;gap:32px}.student-detail .student-photo{width:180px;height:220px}.student-detail dt{font-weight:600;margin-top:18px}.student-detail dd{margin:4px 0 0}
 @media(max-width:560px){.student-detail{flex-direction:column}.student-card{gap:12px}.student-photo{width:70px;height:90px}}
 
@@ -101,6 +100,9 @@ body[data-page="publications"] .pub-figure img{width:100%;height:auto;object-fit
 .student-card>div{min-width:0}.student-card h3{font-size:20px;overflow-wrap:anywhere}.student-card p{line-height:1.65}
 .student-card .student-photo{width:110px;height:140px;object-fit:contain;border-radius:6px;background:var(--soft)}
 .student-card .student-initials{display:flex;align-items:center;justify-content:center;font-size:30px}
+.student-pinyin{display:flex;align-items:center;justify-content:center;font-weight:600;color:var(--muted);text-align:center;line-height:1.3;padding:8px;overflow-wrap:anywhere}
+.student-card .student-pinyin{font-size:20px}
+.student-detail .student-pinyin{font-size:40px}
 .student-detail .student-photo{width:220px;height:280px;object-fit:contain;border-radius:8px}
 .student-bio{line-height:1.85;max-width:760px}
 @media(min-width:761px) and (max-width:1050px){.students{grid-template-columns:repeat(2,minmax(0,1fr))}}
