@@ -38,7 +38,7 @@ const ZH={
  'Yanyi He and Shuaibin Fan are selected as candidates for the National Graduate Scholarship in 2024 (研究生国家奖学金).':'Yanyi He 与 Shuaibin Fan 入选 2024 年研究生国家奖学金候选名单。',
  'Jianfeng Fu and Kaiwen Chen conducted a study tour at the Royal Institute of Technology in Thailand.':'Jianfeng Fu 与 Kaiwen Chen 赴泰国皇家理工学院开展研学交流。','Peiqi Xie conducted a study tour at the Royal Institute of Technology in Thailand.':'Peiqi Xie 赴泰国皇家理工学院开展研学交流。',
  'Minglong Xue and Jinhong He attended ACML2024 in Hanoi, Vietnam.':'薛明龙与 Jinhong He 赴越南河内参加 ACML 2024。','Minglong Xue and Jinhong He attended ACAIT2024 in Fuzhou, China.':'薛明龙与 Jinhong He 在福州参加 ACAIT 2024。','Zhengyang He attended ICIP2023 in Kuala Lumpur, Malaysia.':'Zhengyang He 赴马来西亚吉隆坡参加 ICIP 2023。',
- 'Two of our students won the second prize, and our won the third prize in the Huawei Cup of National Post-Graduate Mathematical Contest in Modeling. (华为杯研究生数学建模大赛)':'课题组学生在华为杯全国研究生数学建模竞赛中获得二等奖和三等奖。',
+ 'Two of our students won the second prize, and four of our students won the third prize in the Huawei Cup of National Post-Graduate Mathematical Contest in Modeling. (华为杯研究生数学建模大赛)':'两位同学获得华为杯全国研究生数学建模竞赛二等奖，四位同学获得三等奖。',
  'Five of our students won the second prize, and two won the third prize in the Huawei Cup of National Post-Graduate Mathematical Contest in Modeling. (华为杯研究生数学建模大赛)':'五位同学获得华为杯全国研究生数学建模竞赛二等奖，两位同学获得三等奖。',
  'Five of our students won the third prize in the Huawei Cup of National Post-Graduate Mathematical Contest in Modeling. (华为杯研究生数学建模大赛)':'五位同学获得华为杯全国研究生数学建模竞赛三等奖。',
  'Two of our students won the first prize, and our three students won the third prize in the Huawei Cup of National Post-Graduate Mathematical Contest in Modeling. (华为杯研究生数学建模大赛)':'两位同学获得华为杯全国研究生数学建模竞赛一等奖，三位同学获得三等奖。'
